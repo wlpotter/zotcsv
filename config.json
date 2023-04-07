@@ -1,0 +1,25 @@
+{
+    "zotero":
+    {
+        "library_type": "group",
+        "library_id": "",
+        "api_key": ""
+    },
+    "csv":
+    {
+        "input_path": "test-in.csv",
+        "delimiter": "\t",
+        "output_path": "",
+        "item_key_column_header": "itemKey",
+        "data_headers": [
+            {
+                "column_header": "syriacaBiblUri",
+                "zotero_field": "extra"
+            },
+            {
+                "column_header": "syriacaZoteroUri",
+                "zotero_field": "extra"
+            }
+        ]
+    }
+}
