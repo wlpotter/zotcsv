@@ -1,7 +1,8 @@
 from pyzotero import zotero
 import pandas as pd
 import csv
-import json 
+import json
+import time
 
 def append_data_in_extra(current_data, new_data):
     new_data = "\n".join(new_data)
@@ -9,6 +10,7 @@ def append_data_in_extra(current_data, new_data):
 
 # open and parse JSON configuration file
 # CHANGE: make this into a user input request to get the path to the config file
+# CHANGE: move this to a config.py module that gets imported
 config_file = open("config.json")
 config_info = json.load(config_file)
 
@@ -33,52 +35,61 @@ csv_data = pd.read_csv(in_csv_path, delimiter=csv_delimiter)
 
 for i, row in csv_data.iterrows():
     # put this into a try/catch block
-    item = zot_library.item(row[item_key_header])
-    # update any non-extra-field data
-    # TBD
-
-    # update extra field data
-    extra_field_column_headers = []
-    for header in data_headers:
-        if(header['zotero_field'] == "extra"):
-            extra_field_column_headers.append(header['column_header'])
-    new_extra_field_data = []
-    for field in extra_field_column_headers:
-        if(not(pd.isna(row[field]))):
-            new_extra_field_data.append(field+": "+row[field])
-    extra = append_data_in_extra(item['data']['extra'], new_extra_field_data)
-    print(extra)
-    # Update Zotero item via write request
-    # TBD
-    """
-    # Catch blocks:
-    # UserNotAuthorized should not be caught so that the script stops and the error is logged to console
-    catch InvalidItemFields as iif_error:
-        print("ERROR. row: ", str(i+2), ". Item: ", row[item_key_header], ". ", iif_error)
-        df.at[i, 'zotcsv_status'] = "InvalidItemFields"
-    catch ResourceNotFound as rnf_error:
+    try:
+        item = zot_library.item(row[item_key_header])
+    except ResourceNotFound as rnf_error:
         print("ERROR. row: ", str(i+2), ". Item: ", row[item_key_header], ". ", rnf_error)
-        df.at[i, 'zotcsv_status'] = "ResourceNotFound"
-    catch HTTPError as http_error:
+        csv_data.at[i, 'zotcsv_status'] = "ResourceNotFound"
+    except HTTPError as http_error:
         print("ERROR. row: ", str(i+2), ". Item: ", row[item_key_header], ". ", http_error)
-        df.at[i, 'zotcsv_status'] = "HTTPError"
-    catch Conflict as c_error:
+        csv_data.at[i, 'zotcsv_status'] = "HTTPError"
+    except Conflict as c_error:
         print("ERROR. row: ", str(i+2), ". Item: ", row[item_key_header], ". ", c_error)
-        df.at[i, 'zotcsv_status'] = "Conflict"
-    catch PreConditionFailed as pcf_error:
-        print("ERROR. row: ", str(i+2), ". Item: ", row[item_key_header], ". ", pcf_error)
-        df.at[i, 'zotcsv_status'] = "PreConditionFailed"
-    catch TooManyRequests as tcreq_error:
-        # maybe try again??
-    catch TooManyRetries as tcret_error:
-        # want to do this for the remainder of the rows, right?
-        print("ERROR. row: ", str(i+2), ". Item: ", row[item_key_header], ". ", tcret_error)
-        df.at[i, 'zotcsv_status'] = "TooManyRetries"
+        csv_data.at[i, 'zotcsv_status'] = "Conflict" 
     else:
-        print("SUCCESS. row: ", str(i+2), ". Item: ", row[item_key_header], ".")
-        df.at[i, 'zotcsv_status'] = "Success"
-    """
-    # sleep(2000)
+        """
+        # update any non-extra-field data
+        # TBD
+        """
+        # update extra field data
+        extra_field_column_headers = []
+        for header in data_headers:
+            if(header['zotero_field'] == "extra"):
+                extra_field_column_headers.append(header['column_header'])
+        new_extra_field_data = []
+        for field in extra_field_column_headers:
+            if(not(pd.isna(row[field]))):
+                new_extra_field_data.append(field+": "+row[field])
+        extra = append_data_in_extra(item['data']['extra'], new_extra_field_data)
+
+        item['data']['extra'] = extra.lstrip()
+        # print(json.dumps(item, indent=4))
+        # Update Zotero item via write request
+        try:
+            zot_library.update_item(item)
+        #log failures to console and record them in CSV
+        except InvalidItemFields as iif_error:
+            print("ERROR. row: ", str(i+2), ". Item: ", row[item_key_header], ". ", iif_error)
+            csv_data.at[i, 'zotcsv_status'] = "InvalidItemFields"
+        except HTTPError as http_error:
+            print("ERROR. row: ", str(i+2), ". Item: ", row[item_key_header], ". ", http_error)
+            csv_data.at[i, 'zotcsv_status'] = "HTTPError"
+        except Conflict as c_error:
+            print("ERROR. row: ", str(i+2), ". Item: ", row[item_key_header], ". ", c_error)
+            csv_data.at[i, 'zotcsv_status'] = "Conflict"
+        except PreConditionFailed as pcf_error:
+            print("ERROR. row: ", str(i+2), ". Item: ", row[item_key_header], ". ", pcf_error)
+            csv_data.at[i, 'zotcsv_status'] = "PreConditionFailed"
+        # except TooManyRequests as tmreq_error:
+        #   TBD. Ideally would try again after like 10-30 seconds
+        # except TooManyRetries as tmret_error:
+        #   TBD. Ideally would log a message like 'too many retries starting at row x', print the error. Then would break out of the loop and record "TooManyRetries" for the remaining records in the CSV before writing the CSV
+        else:
+            print("SUCCESS. row: ", str(i+2), ". Item: ", row[item_key_header], ".")
+            csv_data.at[i, 'zotcsv_status'] = "Success"
+        time.sleep(3)
+        # Update Zotero item via write request
+        # TBD
 """
 # after the rows have been processed, write a csv
 # csv_data.writecsv() to the output file path, using the same delimiter
