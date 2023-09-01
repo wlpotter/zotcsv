@@ -13,12 +13,24 @@
         "item_key_column_header": "itemKey",
         "data_headers": [
             {
-                "column_header": "syriacaBiblUri",
-                "zotero_field": "extra"
+                "column_header": "cbss_URI",
+                "zotero_field": "extra",
+                "zotero_extra_key": "SyriacaURI"
             },
             {
-                "column_header": "syriacaZoteroUri",
-                "zotero_field": "extra"
+                "column_header": "cbss_Zotero_URI",
+                "zotero_field": "extra",
+                "zotero_extra_key": "ZoteroURI"
+            },
+            {
+                "column_header": "Syriaca_URI",
+                "zotero_field": "extra",
+                "zotero_extra_key": "deprecated"
+            },
+            {
+                "column_header": "Syriaca_ZoteroURI",
+                "zotero_field": "extra",
+                "zotero_extra_key": "deprecated"
             }
         ]
     }
