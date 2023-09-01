@@ -71,15 +71,13 @@ for i, row in csv_data.iterrows():
         # TBD
         """
         # update extra field data. For now, extra field data is appended rather than overwritten
-        extra_field_column_headers = []
+        extra = item['data']['extra']
         for header in data_headers:
-            if(header['zotero_field'] == "extra"):
-                extra_field_column_headers.append(header['column_header'])
-        new_extra_field_data = []
-        for field in extra_field_column_headers:
-            if(not(pd.isna(row[field]))):
-                new_extra_field_data.append(field+": "+row[field])
-        extra = append_data_in_extra(item['data']['extra'], new_extra_field_data)
+            # include only the data headers marked as 'extra' and ignore empty rows
+            if(header['zotero_field'] == "extra" and not(pd.isna(row[header['column_header']]))):
+                # set the extra field key; if no zotero_extra_key, use the column header as default
+                key = header.get('zotero_extra_key', header['column_header'])
+                extra = extra + "\n" + key+": "+row[header['column_header']]
 
         item['data']['extra'] = extra.lstrip()
         
