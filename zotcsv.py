@@ -78,6 +78,9 @@ for i, row in csv_data.iterrows():
                 # set the extra field key; if no zotero_extra_key, use the column header as default
                 key = header.get('zotero_extra_key', header['column_header'])
                 extra = extra + "\n" + key+": "+row[header['column_header']]
+            if(header['zotero_field'] == "tags" and not(pd.isna(row[header['column_header']]))):
+                new_tag = {'tag': row[header['column_header']]}
+                item['data']['tags'].append(new_tag)
 
         item['data']['extra'] = extra.lstrip()
         
