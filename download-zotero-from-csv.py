@@ -59,8 +59,7 @@ for i, row in csv_data.iterrows():
         csv_data.at[i, 'zotcsv_errormsg'] = ""
         # log a success
     # delay by a second to try to not overload the server
-    time.sleep(1)
-
+    time.sleep(4)
 '''
 chunk the all_json_items into sets of 100 and save to a file
 '''
