@@ -1,0 +1,2837 @@
+[
+    {
+        "key": "P9E7T4EN",
+        "version": 2760,
+        "library": {
+            "type": "group",
+            "id": 4861694,
+            "name": "A Comprehensive Bibliography on Syriac Studies",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/4861694/items/P9E7T4EN",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies/items/P9E7T4EN",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 8978841,
+                "username": "cbsc_admin",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/cbsc_admin",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Armbruster",
+            "parsedDate": "2013",
+            "numChildren": 0
+        },
+        "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Armbruster, Heidi. <i>Keeping the Faith: Syriac Christian Diasporas</i>. Canon Pyon: Sean Kingston Publishing, 2013.</div>\n</div>",
+        "citation": "<span>Heidi Armbruster, <i>Keeping the Faith: Syriac Christian Diasporas</i> (Canon Pyon: Sean Kingston Publishing, 2013).</span>",
+        "coins": "<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Keeping%20the%20Faith%3A%20Syriac%20Christian%20Diasporas&amp;rft.place=Canon%20Pyon&amp;rft.publisher=Sean%20Kingston%20Publishing&amp;rft.aufirst=Heidi&amp;rft.aulast=Armbruster&amp;rft.au=Heidi%20Armbruster&amp;rft.date=2013'></span>\n",
+        "data": {
+            "key": "P9E7T4EN",
+            "version": 2760,
+            "itemType": "book",
+            "title": "Keeping the Faith: Syriac Christian Diasporas",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Heidi",
+                    "lastName": "Armbruster"
+                }
+            ],
+            "abstractNote": "",
+            "series": "",
+            "seriesNumber": "",
+            "volume": "",
+            "numberOfVolumes": "",
+            "edition": "",
+            "place": "Canon Pyon",
+            "publisher": "Sean Kingston Publishing",
+            "date": "2013",
+            "numPages": "",
+            "language": "",
+            "ISBN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "Assyrians"
+                },
+                {
+                    "tag": "Jacobites"
+                },
+                {
+                    "tag": "Nestorians"
+                },
+                {
+                    "tag": "Syriac language"
+                },
+                {
+                    "tag": "XIX-XXI CE"
+                },
+                {
+                    "tag": "XX CE"
+                },
+                {
+                    "tag": "XXI CE"
+                },
+                {
+                    "tag": "diaspora"
+                },
+                {
+                    "tag": "ethnicity"
+                },
+                {
+                    "tag": "genocide"
+                },
+                {
+                    "tag": "identity"
+                },
+                {
+                    "tag": "nationalism"
+                }
+            ],
+            "collections": [
+                "P4VVZ7P6",
+                "YL2LZXJD"
+            ],
+            "relations": {},
+            "dateAdded": "2022-11-18T14:30:37Z",
+            "dateModified": "2022-11-18T14:30:37Z"
+        }
+    },
+    {
+        "key": "V3Y99AMS",
+        "version": 2760,
+        "library": {
+            "type": "group",
+            "id": 4861694,
+            "name": "A Comprehensive Bibliography on Syriac Studies",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/4861694/items/V3Y99AMS",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies/items/V3Y99AMS",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 8978841,
+                "username": "cbsc_admin",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/cbsc_admin",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Arnold",
+            "parsedDate": "2001",
+            "numChildren": 0
+        },
+        "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Arnold, Werner. &#x201C;Volksglaube Bei Den Aram&#xE4;ern in Ma&#x2018;l&#xFB;la.&#x201D; In <i>Orientalische Christen Zwischen Repression Und Migration: Beitr&#xE4;ge Zur J&#xFC;ngeren Geschichte Und Gegenwartslage</i>, edited by Martin Tamcke, 145&#x2013;65. Studien Zur Orientalischen Kirchengeschichte 13. M&#xFC;nster: LIT, 2001.</div>\n</div>",
+        "citation": "<span>Werner Arnold, “Volksglaube Bei Den Aramäern in Ma‘lûla,” in <i>Orientalische Christen Zwischen Repression Und Migration: Beiträge Zur Jüngeren Geschichte Und Gegenwartslage</i>, ed. Martin Tamcke, Studien Zur Orientalischen Kirchengeschichte 13 (Münster: LIT, 2001), 145–65.</span>",
+        "coins": "<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Volksglaube%20bei%20den%20Aram%C3%A4ern%20in%20Ma%E2%80%98l%C3%BBla&amp;rft.btitle=Orientalische%20Christen%20zwischen%20Repression%20und%20Migration%3A%20Beitr%C3%A4ge%20zur%20j%C3%BCngeren%20Geschichte%20und%20Gegenwartslage&amp;rft.place=M%C3%BCnster&amp;rft.publisher=LIT&amp;rft.series=Studien%20zur%20Orientalischen%20Kirchengeschichte%2013&amp;rft.aufirst=Werner&amp;rft.aulast=Arnold&amp;rft.au=Werner%20Arnold&amp;rft.au=Martin%20Tamcke&amp;rft.date=2001&amp;rft.pages=145-165&amp;rft.spage=145&amp;rft.epage=165'></span>\n",
+        "data": {
+            "key": "V3Y99AMS",
+            "version": 2760,
+            "itemType": "bookSection",
+            "title": "Volksglaube bei den Aramäern in Ma‘lûla",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Werner",
+                    "lastName": "Arnold"
+                },
+                {
+                    "creatorType": "editor",
+                    "firstName": "Martin",
+                    "lastName": "Tamcke"
+                }
+            ],
+            "abstractNote": "Reports on progress made in connection with research towards a collaborative, ethno-geographic monograph on the West Aramaic-speaking village of Malula. Based on interviews Arnold conducted with the villagers, he presents a summary of their beliefs in saints and demons and characterizes their convictions regarding vows, the evil eye, magic, and the protection against evil. Arnold's decision to include numerous excerpts in German translation from responses he received in his interviews leaves the reader with the impression of a close, almost personal encounter with many of his interviewees.",
+            "bookTitle": "Orientalische Christen zwischen Repression und Migration: Beiträge zur jüngeren Geschichte und Gegenwartslage",
+            "series": "Studien zur Orientalischen Kirchengeschichte 13",
+            "seriesNumber": "",
+            "volume": "",
+            "numberOfVolumes": "",
+            "edition": "",
+            "place": "Münster",
+            "publisher": "LIT",
+            "date": "2001",
+            "pages": "145-165",
+            "language": "",
+            "ISBN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "Lebanon"
+                },
+                {
+                    "tag": "Malula"
+                },
+                {
+                    "tag": "XIX-XXI CE"
+                },
+                {
+                    "tag": "XX CE"
+                },
+                {
+                    "tag": "popular religion"
+                }
+            ],
+            "collections": [
+                "P4VVZ7P6",
+                "YL2LZXJD"
+            ],
+            "relations": {},
+            "dateAdded": "2022-11-18T14:30:37Z",
+            "dateModified": "2022-11-18T14:30:37Z"
+        }
+    },
+    {
+        "key": "48AY2BHV",
+        "version": 2760,
+        "library": {
+            "type": "group",
+            "id": 4861694,
+            "name": "A Comprehensive Bibliography on Syriac Studies",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/4861694/items/48AY2BHV",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies/items/48AY2BHV",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 8978841,
+                "username": "cbsc_admin",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/cbsc_admin",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Arnou",
+            "parsedDate": "1936",
+            "numChildren": 0
+        },
+        "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Arnou, Ren&#xE9;. &#x201C;Nestorianisme et N&#xE9;oplatonisme: L&#x2019;unit&#xE9; Du Christ et l&#x2019;union Des &#x2018;Intelligibles.&#x2019;&#x201D; <i>Gregorianum</i> 17 (1936): 116&#x2013;31.</div>\n</div>",
+        "citation": "<span>René Arnou, “Nestorianisme et Néoplatonisme: L’unité Du Christ et l’union Des ‘Intelligibles,’” <i>Gregorianum</i> 17 (1936): 116–31.</span>",
+        "coins": "<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Nestorianisme%20et%20N%C3%A9oplatonisme%3A%20l%E2%80%99unit%C3%A9%20du%20Christ%20et%20l%E2%80%99union%20des%20%E2%80%9Cintelligibles%E2%80%9D&amp;rft.jtitle=Gregorianum&amp;rft.volume=17&amp;rft.aufirst=Ren%C3%A9&amp;rft.aulast=Arnou&amp;rft.au=Ren%C3%A9%20Arnou&amp;rft.date=1936&amp;rft.pages=116-131&amp;rft.spage=116&amp;rft.epage=131'></span>\n",
+        "data": {
+            "key": "48AY2BHV",
+            "version": 2760,
+            "itemType": "journalArticle",
+            "title": "Nestorianisme et Néoplatonisme: l’unité du Christ et l’union des “intelligibles”",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "René",
+                    "lastName": "Arnou"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Gregorianum",
+            "volume": "17",
+            "issue": "",
+            "pages": "116-131",
+            "date": "1936",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "",
+            "DOI": "",
+            "ISSN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "Christology"
+                },
+                {
+                    "tag": "Greek philosophy"
+                },
+                {
+                    "tag": "Neoplatonism"
+                },
+                {
+                    "tag": "Nestorians"
+                }
+            ],
+            "collections": [
+                "P4VVZ7P6",
+                "YL2LZXJD"
+            ],
+            "relations": {},
+            "dateAdded": "2022-11-18T14:30:37Z",
+            "dateModified": "2022-11-18T14:30:37Z"
+        }
+    },
+    {
+        "key": "GMM9GC94",
+        "version": 2760,
+        "library": {
+            "type": "group",
+            "id": 4861694,
+            "name": "A Comprehensive Bibliography on Syriac Studies",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/4861694/items/GMM9GC94",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies/items/GMM9GC94",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 8978841,
+                "username": "cbsc_admin",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/cbsc_admin",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Arnzen",
+            "parsedDate": "2011",
+            "numChildren": 0
+        },
+        "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Arnzen, R&#xFC;diger. &#x201C;Plato, Arabic.&#x201D; In <i>Encyclopedia of Medieval Philosophy: Philosophy Between 500 and 1500</i>, edited by Henrik Lagerlund, 1012&#x2013;16. Dordrecht: Springer, 2011.</div>\n</div>",
+        "citation": "<span>Rüdiger Arnzen, “Plato, Arabic,” in <i>Encyclopedia of Medieval Philosophy: Philosophy Between 500 and 1500</i>, ed. Henrik Lagerlund (Dordrecht: Springer, 2011), 1012–16.</span>",
+        "coins": "<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Plato%2C%20Arabic&amp;rft.btitle=Encyclopedia%20of%20Medieval%20Philosophy%3A%20Philosophy%20Between%20500%20and%201500&amp;rft.place=Dordrecht&amp;rft.publisher=Springer&amp;rft.aufirst=R%C3%BCdiger&amp;rft.aulast=Arnzen&amp;rft.au=R%C3%BCdiger%20Arnzen&amp;rft.au=Henrik%20Lagerlund&amp;rft.date=2011&amp;rft.pages=1012-1016&amp;rft.spage=1012&amp;rft.epage=1016'></span>\n",
+        "data": {
+            "key": "GMM9GC94",
+            "version": 2760,
+            "itemType": "bookSection",
+            "title": "Plato, Arabic",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Rüdiger",
+                    "lastName": "Arnzen"
+                },
+                {
+                    "creatorType": "editor",
+                    "firstName": "Henrik",
+                    "lastName": "Lagerlund"
+                }
+            ],
+            "abstractNote": "",
+            "bookTitle": "Encyclopedia of Medieval Philosophy: Philosophy Between 500 and 1500",
+            "series": "",
+            "seriesNumber": "",
+            "volume": "",
+            "numberOfVolumes": "",
+            "edition": "",
+            "place": "Dordrecht",
+            "publisher": "Springer",
+            "date": "2011",
+            "pages": "1012-1016",
+            "language": "",
+            "ISBN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "Arab Christians"
+                },
+                {
+                    "tag": "Greek philosophy"
+                },
+                {
+                    "tag": "Plato"
+                },
+                {
+                    "tag": "VII-XVIII CE"
+                },
+                {
+                    "tag": "translations from Greek"
+                },
+                {
+                    "tag": "translations into Arabic"
+                }
+            ],
+            "collections": [
+                "P4VVZ7P6",
+                "YL2LZXJD"
+            ],
+            "relations": {},
+            "dateAdded": "2022-11-18T14:30:37Z",
+            "dateModified": "2022-11-18T14:30:37Z"
+        }
+    },
+    {
+        "key": "6BLINDDN",
+        "version": 2761,
+        "library": {
+            "type": "group",
+            "id": 4861694,
+            "name": "A Comprehensive Bibliography on Syriac Studies",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/4861694/items/6BLINDDN",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies/items/6BLINDDN",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 8978841,
+                "username": "cbsc_admin",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/cbsc_admin",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Arocena Solano",
+            "parsedDate": "2007",
+            "numChildren": 0
+        },
+        "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Arocena Solano, F&#xE9;lix Mar&#xED;a. &#x201C;La Nota Romana Sobre La &#x2018;An&#xE1;fora de Addai y Mari&#x2019;: Un Nuevo Cap&#xED;tulo de Teolog&#xED;a Eucar&#xED;stica.&#x201D; <i>Ephemerides Liturgicae</i> 121:1 (2007): 25&#x2013;65.</div>\n</div>",
+        "citation": "<span>Félix María Arocena Solano, “La Nota Romana Sobre La ‘Anáfora de Addai y Mari’: Un Nuevo Capítulo de Teología Eucarística,” <i>Ephemerides Liturgicae</i> 121:1 (2007): 25–65.</span>",
+        "coins": "<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=La%20nota%20romana%20sobre%20la%20%E2%80%9Can%C3%A1fora%20de%20Addai%20y%20Mari%E2%80%9D%3A%20un%20nuevo%20cap%C3%ADtulo%20de%20teolog%C3%ADa%20eucar%C3%ADstica&amp;rft.jtitle=Ephemerides%20Liturgicae&amp;rft.volume=121%3A1&amp;rft.aufirst=F%C3%A9lix%20Mar%C3%ADa&amp;rft.aulast=Arocena%20Solano&amp;rft.au=F%C3%A9lix%20Mar%C3%ADa%20Arocena%20Solano&amp;rft.date=2007&amp;rft.pages=25-65&amp;rft.spage=25&amp;rft.epage=65'></span>\n",
+        "data": {
+            "key": "6BLINDDN",
+            "version": 2761,
+            "itemType": "journalArticle",
+            "title": "La nota romana sobre la “anáfora de Addai y Mari”: un nuevo capítulo de teología eucarística",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Félix María",
+                    "lastName": "Arocena Solano"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Ephemerides Liturgicae",
+            "volume": "121:1",
+            "issue": "",
+            "pages": "25-65",
+            "date": "2007",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "",
+            "DOI": "",
+            "ISSN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "Anaphora of the Apostles"
+                },
+                {
+                    "tag": "Eucharist"
+                },
+                {
+                    "tag": "Nestorians"
+                },
+                {
+                    "tag": "anaphoras"
+                },
+                {
+                    "tag": "liturgics"
+                },
+                {
+                    "tag": "liturgy"
+                }
+            ],
+            "collections": [
+                "P4VVZ7P6",
+                "YL2LZXJD"
+            ],
+            "relations": {},
+            "dateAdded": "2022-11-18T14:30:37Z",
+            "dateModified": "2022-11-18T14:30:37Z"
+        }
+    },
+    {
+        "key": "WCFYDI2C",
+        "version": 2761,
+        "library": {
+            "type": "group",
+            "id": 4861694,
+            "name": "A Comprehensive Bibliography on Syriac Studies",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/4861694/items/WCFYDI2C",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies/items/WCFYDI2C",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 8978841,
+                "username": "cbsc_admin",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/cbsc_admin",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Arranz",
+            "parsedDate": "1971",
+            "numChildren": 0
+        },
+        "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Arranz, Miguel. &#x201C;L&#x2019;&#xE9;conomie Du Salut Dans La Pri&#xE8;re Du Post-Sanctus Des Anaphores de Type Antioch&#xE9;en.&#x201D; <i>La Maison-Dieu</i> 106 (1971): 46&#x2013;75.</div>\n</div>",
+        "citation": "<span>Miguel Arranz, “L’économie Du Salut Dans La Prière Du Post-Sanctus Des Anaphores de Type Antiochéen,” <i>La Maison-Dieu</i> 106 (1971): 46–75.</span>",
+        "coins": "<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=L%E2%80%99%C3%A9conomie%20du%20salut%20dans%20la%20pri%C3%A8re%20du%20Post-Sanctus%20des%20anaphores%20de%20type%20antioch%C3%A9en&amp;rft.jtitle=La%20Maison-Dieu&amp;rft.volume=106&amp;rft.aufirst=Miguel&amp;rft.aulast=Arranz&amp;rft.au=Miguel%20Arranz&amp;rft.date=1971&amp;rft.pages=46-75&amp;rft.spage=46&amp;rft.epage=75'></span>\n",
+        "data": {
+            "key": "WCFYDI2C",
+            "version": 2761,
+            "itemType": "journalArticle",
+            "title": "L’économie du salut dans la prière du Post-Sanctus des anaphores de type antiochéen",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Miguel",
+                    "lastName": "Arranz"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "La Maison-Dieu",
+            "volume": "106",
+            "issue": "",
+            "pages": "46-75",
+            "date": "1971",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "",
+            "DOI": "",
+            "ISSN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "Nestorians"
+                },
+                {
+                    "tag": "Sanctus"
+                },
+                {
+                    "tag": "anaphoras"
+                },
+                {
+                    "tag": "liturgics"
+                },
+                {
+                    "tag": "liturgy"
+                },
+                {
+                    "tag": "soteriology"
+                }
+            ],
+            "collections": [
+                "P4VVZ7P6",
+                "YL2LZXJD"
+            ],
+            "relations": {},
+            "dateAdded": "2022-11-18T14:30:37Z",
+            "dateModified": "2022-11-18T14:30:37Z"
+        }
+    },
+    {
+        "key": "UETGMBH3",
+        "version": 5552,
+        "library": {
+            "type": "group",
+            "id": 4861694,
+            "name": "A Comprehensive Bibliography on Syriac Studies",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/4861694/items/UETGMBH3",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies/items/UETGMBH3",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 8978841,
+                "username": "cbsc_admin",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/cbsc_admin",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Arthur",
+            "parsedDate": "2008",
+            "numChildren": 1
+        },
+        "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Arthur, Rosemary A. <i>Pseudo-Dionysius as Polemicist: The Development and Purpose of the Angelic Hierarchy in Sixth Century Syria</i>. Ashgate New Critical Thinking in Religion, Theology, and Biblical Studies. Aldershot: Ashgate, 2008.</div>\n</div>",
+        "citation": "<span>Rosemary A. Arthur, <i>Pseudo-Dionysius as Polemicist: The Development and Purpose of the Angelic Hierarchy in Sixth Century Syria</i>, Ashgate New Critical Thinking in Religion, Theology, and Biblical Studies (Aldershot: Ashgate, 2008).</span>",
+        "coins": "<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Pseudo-Dionysius%20as%20Polemicist%3A%20The%20Development%20and%20Purpose%20of%20the%20Angelic%20Hierarchy%20in%20Sixth%20Century%20Syria&amp;rft.place=Aldershot&amp;rft.publisher=Ashgate&amp;rft.series=Ashgate%20New%20Critical%20Thinking%20in%20Religion%2C%20Theology%2C%20and%20Biblical%20Studies&amp;rft.aufirst=Rosemary%20A.&amp;rft.aulast=Arthur&amp;rft.au=Rosemary%20A.%20Arthur&amp;rft.date=2008&amp;rft.tpages=xii%2C%20213'></span>\n",
+        "data": {
+            "key": "UETGMBH3",
+            "version": 5552,
+            "itemType": "book",
+            "title": "Pseudo-Dionysius as Polemicist: The Development and Purpose of the Angelic Hierarchy in Sixth Century Syria",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Rosemary A.",
+                    "lastName": "Arthur"
+                }
+            ],
+            "abstractNote": "Argues that Pseudo-Dionysian corpus was produced by a Syrian Monophysite authro between 527 and 529 CE.",
+            "series": "Ashgate New Critical Thinking in Religion, Theology, and Biblical Studies",
+            "seriesNumber": "",
+            "volume": "",
+            "numberOfVolumes": "",
+            "edition": "",
+            "place": "Aldershot",
+            "publisher": "Ashgate",
+            "date": "2008",
+            "numPages": "xii, 213",
+            "language": "",
+            "ISBN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "John bar Aphtonia"
+                },
+                {
+                    "tag": "John of Tella"
+                },
+                {
+                    "tag": "Monophysitism"
+                },
+                {
+                    "tag": "Pseudo-Dionysius the Areopagite"
+                },
+                {
+                    "tag": "Sergius of Reshaina"
+                },
+                {
+                    "tag": "Stephen bar Sudaile"
+                },
+                {
+                    "tag": "VI CE"
+                },
+                {
+                    "tag": "_deprecated"
+                },
+                {
+                    "tag": "angelology"
+                }
+            ],
+            "collections": [
+                "P4VVZ7P6",
+                "YL2LZXJD"
+            ],
+            "relations": {},
+            "dateAdded": "2022-11-18T14:30:37Z",
+            "dateModified": "2022-11-18T14:30:37Z"
+        }
+    },
+    {
+        "key": "AB2RFVAY",
+        "version": 2762,
+        "library": {
+            "type": "group",
+            "id": 4861694,
+            "name": "A Comprehensive Bibliography on Syriac Studies",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/4861694/items/AB2RFVAY",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies/items/AB2RFVAY",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 8978841,
+                "username": "cbsc_admin",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/cbsc_admin",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Arzhanov",
+            "parsedDate": "2014",
+            "numChildren": 0
+        },
+        "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Arzhanov, Yury N. &#x201C;Das Florilegium in Der Hs. Vat. Sir. 135 Und Seine Griechisch-Arabischen Parallelen.&#x201D; In <i>Geschichte, Theologie Und Kultur Des Syrischen Christentums: Beitr&#xE4;ge Zum 7. Deutschen Syrologie-Symposium in G&#xF6;ttingen, Dezember 2011</i>, edited by Martin Tamcke and Sven Grebenstein, 35&#x2013;48. G&#xF6;ttinger Orientforschungen, I. Reihe: Syriaca 46. Wiesbaden: Harrassowitz Verlag, 2014.</div>\n</div>",
+        "citation": "<span>Yury N. Arzhanov, “Das Florilegium in Der Hs. Vat. Sir. 135 Und Seine Griechisch-Arabischen Parallelen,” in <i>Geschichte, Theologie Und Kultur Des Syrischen Christentums: Beiträge Zum 7. Deutschen Syrologie-Symposium in Göttingen, Dezember 2011</i>, ed. Martin Tamcke and Sven Grebenstein, Göttinger Orientforschungen, I. Reihe: Syriaca 46 (Wiesbaden: Harrassowitz Verlag, 2014), 35–48.</span>",
+        "coins": "<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Das%20Florilegium%20in%20der%20Hs.%20Vat.%20Sir.%20135%20und%20seine%20griechisch-arabischen%20Parallelen&amp;rft.btitle=Geschichte%2C%20Theologie%20und%20Kultur%20des%20syrischen%20Christentums%3A%20Beitr%C3%A4ge%20zum%207.%20Deutschen%20Syrologie-Symposium%20in%20G%C3%B6ttingen%2C%20Dezember%202011&amp;rft.place=Wiesbaden&amp;rft.publisher=Harrassowitz%20Verlag&amp;rft.series=G%C3%B6ttinger%20Orientforschungen%2C%20I.%20Reihe%3A%20Syriaca%2046&amp;rft.aufirst=Yury%20N.&amp;rft.aulast=Arzhanov&amp;rft.au=Yury%20N.%20Arzhanov&amp;rft.au=Martin%20Tamcke&amp;rft.au=Sven%20Grebenstein&amp;rft.date=2014&amp;rft.pages=35-48&amp;rft.spage=35&amp;rft.epage=48'></span>\n",
+        "data": {
+            "key": "AB2RFVAY",
+            "version": 2762,
+            "itemType": "bookSection",
+            "title": "Das Florilegium in der Hs. Vat. Sir. 135 und seine griechisch-arabischen Parallelen",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Yury N.",
+                    "lastName": "Arzhanov"
+                },
+                {
+                    "creatorType": "editor",
+                    "firstName": "Martin",
+                    "lastName": "Tamcke"
+                },
+                {
+                    "creatorType": "editor",
+                    "firstName": "Sven",
+                    "lastName": "Grebenstein"
+                }
+            ],
+            "abstractNote": "Summary: The Syriac collection of philosophical sentences preserved in the manu- script Vaticano Siriaco 135 displays a number of parallels with Greek gnomologies. At the same time, it reflects the tendency to bring together ancient Greek philo- sophy and Christian ascetical praxis which is common to a large part of the Syriac popular philosophical texts. Because of that, the Syriac gnomology can be connec- ted only indirectly with the Greek collections of philosophical sentences which are known to us. In some later Arabic philosophical florilegia, on the contrary, we find nearly literal translations of a number of sentences which were included in the col- lection of Vat. Sir. 135. This allows us to trace the “Nachleben” of the Syriac gnomic sayings in the Muslim culture. The article presents a general description of the Syr- iac gnomology in the Ms. Vat. Sir. 135 as well as a German translation which takes into account the variants of several maxims  preserved in the Ms. Sinai Syriac 14.",
+            "bookTitle": "Geschichte, Theologie und Kultur des syrischen Christentums: Beiträge zum 7. Deutschen Syrologie-Symposium in Göttingen, Dezember 2011",
+            "series": "Göttinger Orientforschungen, I. Reihe: Syriaca 46",
+            "seriesNumber": "",
+            "volume": "",
+            "numberOfVolumes": "",
+            "edition": "",
+            "place": "Wiesbaden",
+            "publisher": "Harrassowitz Verlag",
+            "date": "2014",
+            "pages": "35-48",
+            "language": "",
+            "ISBN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "Diogenes"
+                },
+                {
+                    "tag": "Greek philosophy"
+                },
+                {
+                    "tag": "Jacobites"
+                },
+                {
+                    "tag": "VII-XVIII CE"
+                },
+                {
+                    "tag": "VIII CE"
+                },
+                {
+                    "tag": "florilegium"
+                },
+                {
+                    "tag": "gnomologia"
+                },
+                {
+                    "tag": "primary sources [Syriac] - German translation"
+                },
+                {
+                    "tag": "translations from Greek"
+                },
+                {
+                    "tag": "translations into Syriac"
+                }
+            ],
+            "collections": [
+                "P4VVZ7P6",
+                "YL2LZXJD"
+            ],
+            "relations": {},
+            "dateAdded": "2022-11-18T14:30:37Z",
+            "dateModified": "2022-11-18T14:30:37Z"
+        }
+    },
+    {
+        "key": "FB8KKTXB",
+        "version": 2763,
+        "library": {
+            "type": "group",
+            "id": 4861694,
+            "name": "A Comprehensive Bibliography on Syriac Studies",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/4861694/items/FB8KKTXB",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies/items/FB8KKTXB",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 8978841,
+                "username": "cbsc_admin",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/cbsc_admin",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Arzhanov",
+            "parsedDate": "2021",
+            "numChildren": 0
+        },
+        "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Arzhanov, Yury N. &#x201C;Publishing Syriac Aristotle: Some Notes on D. King&#x2019;s Edition of <i>Categories</i>.&#x201D; <i>Hugoye: Journal of Syriac Studies</i> 24:2 (2021): 491&#x2013;517.</div>\n</div>",
+        "citation": "<span>Yury N. Arzhanov, “Publishing Syriac Aristotle: Some Notes on D. King’s Edition of <i>Categories</i>,” <i>Hugoye: Journal of Syriac Studies</i> 24:2 (2021): 491–517.</span>",
+        "coins": "<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Publishing%20Syriac%20Aristotle%3A%20Some%20Notes%20on%20D.%20King%E2%80%99s%20Edition%20of%20%3Ci%3ECategories%3C%2Fi%3E&amp;rft.jtitle=Hugoye%3A%20Journal%20of%20Syriac%20Studies&amp;rft.volume=24%3A2&amp;rft.aufirst=Yury%20N.&amp;rft.aulast=Arzhanov&amp;rft.au=Yury%20N.%20Arzhanov&amp;rft.date=2021&amp;rft.pages=491-517&amp;rft.spage=491&amp;rft.epage=517'></span>\n",
+        "data": {
+            "key": "FB8KKTXB",
+            "version": 2763,
+            "itemType": "journalArticle",
+            "title": "Publishing Syriac Aristotle: Some Notes on D. King’s Edition of <i>Categories</i>",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Yury N.",
+                    "lastName": "Arzhanov"
+                }
+            ],
+            "abstractNote": "Daniel King’s book <i>The Earliest Syriac Translation of Aristotle’s Categories</i> may be considered the first critical edition of a Syriac translation of Aristotle’s works. Thus, it raises a number of questions of textual criticism that may be discussed against the background of D. Gutas’ research in the field of Graeco-Arabic studies. This article provides a critical review of the book and a description of the new online publication of the anonymous Syriac translation of Aristotle’s Categories in the HUNAYNNET database.",
+            "publicationTitle": "Hugoye: Journal of Syriac Studies",
+            "volume": "24:2",
+            "issue": "",
+            "pages": "491-517",
+            "date": "2021",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "",
+            "DOI": "",
+            "ISSN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "Aristotle"
+                },
+                {
+                    "tag": "Greek philosophy"
+                },
+                {
+                    "tag": "IV-VII CE"
+                },
+                {
+                    "tag": "VI CE"
+                },
+                {
+                    "tag": "logic"
+                },
+                {
+                    "tag": "textual criticism"
+                },
+                {
+                    "tag": "translations from Greek"
+                },
+                {
+                    "tag": "translations into Syriac"
+                }
+            ],
+            "collections": [
+                "P4VVZ7P6",
+                "YL2LZXJD"
+            ],
+            "relations": {},
+            "dateAdded": "2022-11-18T14:30:37Z",
+            "dateModified": "2022-11-18T14:30:37Z"
+        }
+    },
+    {
+        "key": "W9FIN2VJ",
+        "version": 2763,
+        "library": {
+            "type": "group",
+            "id": 4861694,
+            "name": "A Comprehensive Bibliography on Syriac Studies",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/4861694/items/W9FIN2VJ",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies/items/W9FIN2VJ",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 8978841,
+                "username": "cbsc_admin",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/cbsc_admin",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Arzhanov",
+            "parsedDate": "2017",
+            "numChildren": 0
+        },
+        "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Arzhanov, Yury N. &#x201C;Syriac Parallels to <i>Mu&#x1E2B;t&#x101;r Al-&#x1E24;ikam Wa-Ma&#x1E25;&#x101;sin Al-Kalim</i> of Muba&#x161;&#x161;ir b. F&#x101;tik as Evidence for Translations from Syriac into Arabic.&#x201D; In <i>Syriac in Its Multi-Cultural Context: First International Syriac Studies Symposium, Mardin Artuklu University, Institute of Living Languages, 20-22 April 2012, Mardin</i>, edited by Herman G. B. Teule, Elif Keser-Kayaalp, Kutlu Akalin, Nesim Doru, and Mehmet Sait Toprak, 119&#x2013;30. Eastern Christian Studies 23. Leuven: Peeters, 2017.</div>\n</div>",
+        "citation": "<span>Yury N. Arzhanov, “Syriac Parallels to <i>Muḫtār Al-Ḥikam Wa-Maḥāsin Al-Kalim</i> of Mubaššir b. Fātik as Evidence for Translations from Syriac into Arabic,” in <i>Syriac in Its Multi-Cultural Context: First International Syriac Studies Symposium, Mardin Artuklu University, Institute of Living Languages, 20-22 April 2012, Mardin</i>, ed. Herman G. B. Teule et al., Eastern Christian Studies 23 (Leuven: Peeters, 2017), 119–30.</span>",
+        "coins": "<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Syriac%20Parallels%20to%20%3Ci%3EMu%E1%B8%ABt%C4%81r%20Al-%E1%B8%A5ikam%20wa-Ma%E1%B8%A5%C4%81sin%20Al-Kalim%3C%2Fi%3E%20of%20Muba%C5%A1%C5%A1ir%20b.%20F%C4%81tik%20as%20Evidence%20for%20Translations%20from%20Syriac%20into%20Arabic&amp;rft.btitle=Syriac%20in%20Its%20Multi-Cultural%20Context%3A%20First%20International%20Syriac%20Studies%20Symposium%2C%20Mardin%20Artuklu%20University%2C%20Institute%20of%20Living%20Languages%2C%2020-22%20April%202012%2C%20Mardin&amp;rft.place=Leuven&amp;rft.publisher=Peeters&amp;rft.series=Eastern%20Christian%20Studies%2023&amp;rft.aufirst=Yury%20N.&amp;rft.aulast=Arzhanov&amp;rft.au=Yury%20N.%20Arzhanov&amp;rft.au=Herman%20G.%20B.%20Teule&amp;rft.au=Elif%20Keser-Kayaalp&amp;rft.au=Kutlu%20Akalin&amp;rft.au=Nesim%20Doru&amp;rft.au=Mehmet%20Sait%20Toprak&amp;rft.date=2017&amp;rft.pages=119-130&amp;rft.spage=119&amp;rft.epage=130'></span>\n",
+        "data": {
+            "key": "W9FIN2VJ",
+            "version": 2763,
+            "itemType": "bookSection",
+            "title": "Syriac Parallels to <i>Muḫtār Al-ḥikam wa-Maḥāsin Al-Kalim</i> of Mubaššir b. Fātik as Evidence for Translations from Syriac into Arabic",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Yury N.",
+                    "lastName": "Arzhanov"
+                },
+                {
+                    "creatorType": "editor",
+                    "firstName": "Herman G. B.",
+                    "lastName": "Teule"
+                },
+                {
+                    "creatorType": "editor",
+                    "firstName": "Elif",
+                    "lastName": "Keser-Kayaalp"
+                },
+                {
+                    "creatorType": "editor",
+                    "firstName": "Kutlu",
+                    "lastName": "Akalin"
+                },
+                {
+                    "creatorType": "editor",
+                    "firstName": "Nesim",
+                    "lastName": "Doru"
+                },
+                {
+                    "creatorType": "editor",
+                    "firstName": "Mehmet Sait",
+                    "lastName": "Toprak"
+                }
+            ],
+            "abstractNote": "",
+            "bookTitle": "Syriac in Its Multi-Cultural Context: First International Syriac Studies Symposium, Mardin Artuklu University, Institute of Living Languages, 20-22 April 2012, Mardin",
+            "series": "Eastern Christian Studies 23",
+            "seriesNumber": "",
+            "volume": "",
+            "numberOfVolumes": "",
+            "edition": "",
+            "place": "Leuven",
+            "publisher": "Peeters",
+            "date": "2017",
+            "pages": "119-130",
+            "language": "",
+            "ISBN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "Alexander Romance"
+                },
+                {
+                    "tag": "Alexander the Great"
+                },
+                {
+                    "tag": "Greek philosophy"
+                },
+                {
+                    "tag": "Muslim-Christian relations"
+                },
+                {
+                    "tag": "Plutarch"
+                },
+                {
+                    "tag": "Pseudo-Callisthenes"
+                },
+                {
+                    "tag": "Syriac influence [Arabs]"
+                },
+                {
+                    "tag": "VII-XVIII CE"
+                },
+                {
+                    "tag": "XI CE"
+                },
+                {
+                    "tag": "gnomologia"
+                },
+                {
+                    "tag": "translations from Syriac"
+                },
+                {
+                    "tag": "translations into Arabic"
+                }
+            ],
+            "collections": [
+                "P4VVZ7P6",
+                "YL2LZXJD"
+            ],
+            "relations": {},
+            "dateAdded": "2022-11-18T14:30:37Z",
+            "dateModified": "2022-11-18T14:30:37Z"
+        }
+    },
+    {
+        "key": "PRJZFHAA",
+        "version": 2763,
+        "library": {
+            "type": "group",
+            "id": 4861694,
+            "name": "A Comprehensive Bibliography on Syriac Studies",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/4861694/items/PRJZFHAA",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies/items/PRJZFHAA",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 8978841,
+                "username": "cbsc_admin",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/cbsc_admin",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Arzhanov",
+            "parsedDate": "2020",
+            "numChildren": 0
+        },
+        "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Arzhanov, Yury N. &#x201C;The Syriac Reception of Plato&#x2019;s <i>Republic</i>.&#x201D; In <i>Syriac Christian Culture: Beginnings to Renaissance</i>, edited by Aaron Michael Butts and Robin A. Darling Young, 85&#x2013;96. Washington, D.C.: The Catholic University of America Press, 2020.</div>\n</div>",
+        "citation": "<span>Yury N. Arzhanov, “The Syriac Reception of Plato’s <i>Republic</i>,” in <i>Syriac Christian Culture: Beginnings to Renaissance</i>, ed. Aaron Michael Butts and Robin A. Darling Young (Washington, D.C.: The Catholic University of America Press, 2020), 85–96.</span>",
+        "coins": "<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=The%20Syriac%20Reception%20of%20Plato%E2%80%99s%20%3Ci%3ERepublic%3C%2Fi%3E&amp;rft.btitle=Syriac%20Christian%20Culture%3A%20Beginnings%20to%20Renaissance&amp;rft.place=Washington%2C%20D.C.&amp;rft.publisher=The%20Catholic%20University%20of%20America%20Press&amp;rft.aufirst=Yury%20N.&amp;rft.aulast=Arzhanov&amp;rft.au=Yury%20N.%20Arzhanov&amp;rft.au=Aaron%20Michael%20Butts&amp;rft.au=Robin%20A.%20Darling%20Young&amp;rft.date=2020&amp;rft.pages=85-96&amp;rft.spage=85&amp;rft.epage=96'></span>\n",
+        "data": {
+            "key": "PRJZFHAA",
+            "version": 2763,
+            "itemType": "bookSection",
+            "title": "The Syriac Reception of Plato’s <i>Republic</i>",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Yury N.",
+                    "lastName": "Arzhanov"
+                },
+                {
+                    "creatorType": "editor",
+                    "firstName": "Aaron Michael",
+                    "lastName": "Butts"
+                },
+                {
+                    "creatorType": "editor",
+                    "firstName": "Robin A. Darling",
+                    "lastName": "Young"
+                }
+            ],
+            "abstractNote": "",
+            "bookTitle": "Syriac Christian Culture: Beginnings to Renaissance",
+            "series": "",
+            "seriesNumber": "",
+            "volume": "",
+            "numberOfVolumes": "",
+            "edition": "",
+            "place": "Washington, D.C.",
+            "publisher": "The Catholic University of America Press",
+            "date": "2020",
+            "pages": "85-96",
+            "language": "",
+            "ISBN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "Greek philosophy"
+                },
+                {
+                    "tag": "Plato"
+                },
+                {
+                    "tag": "VII-XVIII CE"
+                }
+            ],
+            "collections": [
+                "P4VVZ7P6",
+                "YL2LZXJD"
+            ],
+            "relations": {},
+            "dateAdded": "2022-11-18T14:30:37Z",
+            "dateModified": "2022-11-18T14:30:37Z"
+        }
+    },
+    {
+        "key": "4CID2962",
+        "version": 2762,
+        "library": {
+            "type": "group",
+            "id": 4861694,
+            "name": "A Comprehensive Bibliography on Syriac Studies",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/4861694/items/4CID2962",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies/items/4CID2962",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 8978841,
+                "username": "cbsc_admin",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/cbsc_admin",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Arzhanov",
+            "parsedDate": "2008",
+            "numChildren": 0
+        },
+        "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Arzhanov, Yury N. &#x201C;Zeugnisse &#xDC;ber Kontakte Zwischen Juden Und Christen Im Vorislamischen Arabien.&#x201D; <i>Oriens Christianus</i> 92 (2008): 79&#x2013;93.</div>\n</div>",
+        "citation": "<span>Yury N. Arzhanov, “Zeugnisse Über Kontakte Zwischen Juden Und Christen Im Vorislamischen Arabien,” <i>Oriens Christianus</i> 92 (2008): 79–93.</span>",
+        "coins": "<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Zeugnisse%20%C3%BCber%20Kontakte%20zwischen%20Juden%20und%20Christen%20im%20vorislamischen%20Arabien&amp;rft.jtitle=Oriens%20Christianus&amp;rft.volume=92&amp;rft.aufirst=Yury%20N.&amp;rft.aulast=Arzhanov&amp;rft.au=Yury%20N.%20Arzhanov&amp;rft.date=2008&amp;rft.pages=79-93&amp;rft.spage=79&amp;rft.epage=93'></span>\n",
+        "data": {
+            "key": "4CID2962",
+            "version": 2762,
+            "itemType": "journalArticle",
+            "title": "Zeugnisse über Kontakte zwischen Juden und Christen im vorislamischen Arabien",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Yury N.",
+                    "lastName": "Arzhanov"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Oriens Christianus",
+            "volume": "92",
+            "issue": "",
+            "pages": "79-93",
+            "date": "2008",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "",
+            "DOI": "",
+            "ISSN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "IV-VII CE"
+                },
+                {
+                    "tag": "Jewish-Christian relations"
+                },
+                {
+                    "tag": "Najran"
+                },
+                {
+                    "tag": "Nestorians"
+                },
+                {
+                    "tag": "South Arabia"
+                },
+                {
+                    "tag": "VI CE"
+                }
+            ],
+            "collections": [
+                "P4VVZ7P6",
+                "YL2LZXJD"
+            ],
+            "relations": {},
+            "dateAdded": "2022-11-18T14:30:37Z",
+            "dateModified": "2022-11-18T14:30:37Z"
+        }
+    },
+    {
+        "key": "R9XLZKPA",
+        "version": 2764,
+        "library": {
+            "type": "group",
+            "id": 4861694,
+            "name": "A Comprehensive Bibliography on Syriac Studies",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/4861694/items/R9XLZKPA",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies/items/R9XLZKPA",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 8978841,
+                "username": "cbsc_admin",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/cbsc_admin",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Asade",
+            "parsedDate": "2017",
+            "numChildren": 0
+        },
+        "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Asade, Daniel. &#x201C;La Literatura Farmac&#xE9;utica Sir&#xED;aca y &#xC1;rabe. Comparaci&#xF3;n de Las Recetas de <i>El Libro de Las Medicinas</i> (Sir&#xED;aco) Con Recetas En La Literatura Farmac&#xE9;utica &#xC1;rabe.&#x201D; Tesis de doctorado en Farmacia, Universidad de Buenos Aires, 2017.</div>\n</div>",
+        "citation": "<span>Daniel Asade, “La Literatura Farmacéutica Siríaca y Árabe. Comparación de Las Recetas de <i>El Libro de Las Medicinas</i> (Siríaco) Con Recetas En La Literatura Farmacéutica Árabe” (Tesis de doctorado en Farmacia, Universidad de Buenos Aires, 2017).</span>",
+        "coins": "<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adissertation&amp;rft.title=La%20literatura%20farmac%C3%A9utica%20sir%C3%ADaca%20y%20%C3%A1rabe.%20Comparaci%C3%B3n%20de%20las%20recetas%20de%20%3Ci%3EEl%20Libro%20de%20las%20Medicinas%3C%2Fi%3E%20(sir%C3%ADaco)%20con%20recetas%20en%20la%20literatura%20farmac%C3%A9utica%20%C3%A1rabe&amp;rft.inst=Universidad%20de%20Buenos%20Aires&amp;rft.degree=Tesis%20de%20doctorado%20en%20Farmacia&amp;rft.aufirst=Daniel&amp;rft.aulast=Asade&amp;rft.au=Daniel%20Asade&amp;rft.date=2017'></span>\n",
+        "data": {
+            "key": "R9XLZKPA",
+            "version": 2764,
+            "itemType": "thesis",
+            "title": "La literatura farmacéutica siríaca y árabe. Comparación de las recetas de <i>El Libro de las Medicinas</i> (siríaco) con recetas en la literatura farmacéutica árabe",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Daniel",
+                    "lastName": "Asade"
+                }
+            ],
+            "abstractNote": "",
+            "thesisType": "Tesis de doctorado en Farmacia",
+            "university": "Universidad de Buenos Aires",
+            "place": "",
+            "date": "2017",
+            "numPages": "",
+            "language": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "Book of Medicines"
+                },
+                {
+                    "tag": "Galen"
+                },
+                {
+                    "tag": "Greek culture"
+                },
+                {
+                    "tag": "Muslim-Christian relations"
+                },
+                {
+                    "tag": "Nestorians"
+                },
+                {
+                    "tag": "VII-XVIII CE"
+                },
+                {
+                    "tag": "medicine"
+                },
+                {
+                    "tag": "plants"
+                }
+            ],
+            "collections": [
+                "P4VVZ7P6",
+                "YL2LZXJD"
+            ],
+            "relations": {},
+            "dateAdded": "2022-11-18T14:30:37Z",
+            "dateModified": "2022-11-18T14:30:37Z"
+        }
+    },
+    {
+        "key": "IHXMHT3E",
+        "version": 2764,
+        "library": {
+            "type": "group",
+            "id": 4861694,
+            "name": "A Comprehensive Bibliography on Syriac Studies",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/4861694/items/IHXMHT3E",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies/items/IHXMHT3E",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 8978841,
+                "username": "cbsc_admin",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/cbsc_admin",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Ashby",
+            "parsedDate": "1984",
+            "numChildren": 0
+        },
+        "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Ashby, Godfrey William. &#x201C;The Hermeneutic Approach of Theodoret of Cyrrhus to the Old Testament.&#x201D; <i>Studia Patristica</i> 15:1 (1984): 131&#x2013;35.</div>\n</div>",
+        "citation": "<span>Godfrey William Ashby, “The Hermeneutic Approach of Theodoret of Cyrrhus to the Old Testament,” <i>Studia Patristica</i> 15:1 (1984): 131–35.</span>",
+        "coins": "<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The%20Hermeneutic%20Approach%20of%20Theodoret%20of%20Cyrrhus%20to%20the%20Old%20Testament&amp;rft.jtitle=Studia%20Patristica&amp;rft.volume=15%3A1&amp;rft.aufirst=Godfrey%20William&amp;rft.aulast=Ashby&amp;rft.au=Godfrey%20William%20Ashby&amp;rft.date=1984&amp;rft.pages=131-135&amp;rft.spage=131&amp;rft.epage=135'></span>\n",
+        "data": {
+            "key": "IHXMHT3E",
+            "version": 2764,
+            "itemType": "journalArticle",
+            "title": "The Hermeneutic Approach of Theodoret of Cyrrhus to the Old Testament",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Godfrey William",
+                    "lastName": "Ashby"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Studia Patristica",
+            "volume": "15:1",
+            "issue": "",
+            "pages": "131-135",
+            "date": "1984",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "",
+            "DOI": "",
+            "ISSN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "Antiochene school"
+                },
+                {
+                    "tag": "Old Testament"
+                },
+                {
+                    "tag": "Theodoret of Cyrus"
+                },
+                {
+                    "tag": "V CE"
+                },
+                {
+                    "tag": "exegesis"
+                }
+            ],
+            "collections": [
+                "P4VVZ7P6",
+                "YL2LZXJD"
+            ],
+            "relations": {},
+            "dateAdded": "2022-11-18T14:30:37Z",
+            "dateModified": "2022-11-18T14:30:37Z"
+        }
+    },
+    {
+        "key": "44YLU5LR",
+        "version": 5553,
+        "library": {
+            "type": "group",
+            "id": 4861694,
+            "name": "A Comprehensive Bibliography on Syriac Studies",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/4861694/items/44YLU5LR",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies/items/44YLU5LR",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 8978841,
+                "username": "cbsc_admin",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/cbsc_admin",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Ashdown",
+            "parsedDate": "2020",
+            "numChildren": 0
+        },
+        "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Ashdown, Andrew W. H. <i>Christian-Muslim Relations in Syria: Historic and Contemporary Religious Dynamics in a Changing Context</i>. Culture and Civilization in the Middle East. London: Routledge, 2020.</div>\n</div>",
+        "citation": "<span>Andrew W. H. Ashdown, <i>Christian-Muslim Relations in Syria: Historic and Contemporary Religious Dynamics in a Changing Context</i>, Culture and Civilization in the Middle East (London: Routledge, 2020).</span>",
+        "coins": "<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Christian-Muslim%20Relations%20in%20Syria%3A%20Historic%20and%20Contemporary%20Religious%20Dynamics%20in%20a%20Changing%20Context&amp;rft.place=London&amp;rft.publisher=Routledge&amp;rft.series=Culture%20and%20Civilization%20in%20the%20Middle%20East&amp;rft.aufirst=Andrew%20W.%20H.&amp;rft.aulast=Ashdown&amp;rft.au=Andrew%20W.%20H.%20Ashdown&amp;rft.date=2020'></span>\n",
+        "data": {
+            "key": "44YLU5LR",
+            "version": 5553,
+            "itemType": "book",
+            "title": "Christian-Muslim Relations in Syria: Historic and Contemporary Religious Dynamics in a Changing Context",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Andrew W. H.",
+                    "lastName": "Ashdown"
+                }
+            ],
+            "abstractNote": "",
+            "series": "Culture and Civilization in the Middle East",
+            "seriesNumber": "",
+            "volume": "",
+            "numberOfVolumes": "",
+            "edition": "",
+            "place": "London",
+            "publisher": "Routledge",
+            "date": "2020",
+            "numPages": "",
+            "language": "",
+            "ISBN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "Muslim-Christian relations"
+                },
+                {
+                    "tag": "Syria"
+                },
+                {
+                    "tag": "XIX-XXI CE"
+                },
+                {
+                    "tag": "XX CE"
+                },
+                {
+                    "tag": "XXI CE"
+                },
+                {
+                    "tag": "_deprecated"
+                }
+            ],
+            "collections": [
+                "P4VVZ7P6",
+                "YL2LZXJD"
+            ],
+            "relations": {},
+            "dateAdded": "2022-11-18T14:30:37Z",
+            "dateModified": "2022-11-18T14:30:37Z"
+        }
+    },
+    {
+        "key": "BHGU7FVQ",
+        "version": 2765,
+        "library": {
+            "type": "group",
+            "id": 4861694,
+            "name": "A Comprehensive Bibliography on Syriac Studies",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/4861694/items/BHGU7FVQ",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies/items/BHGU7FVQ",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 8978841,
+                "username": "cbsc_admin",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/cbsc_admin",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Ashurov",
+            "parsedDate": "2015",
+            "numChildren": 0
+        },
+        "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Ashurov, Barakatullo. &#x201C;Inculturation Mat&#xE9;rielle de l&#x2019;&#xC9;glise d&#x2019;Orient En Asie Centrale: T&#xE9;moignages Arch&#xE9;ologiques.&#x201D; In <i>Le Christianisme Syriaque En Asie Centrale et En Chine</i>, edited by Pier Giorgio Borbone and Pierre Marsone, 161&#x2013;84. &#xC9;tudes Syriaques 12. Paris: Geuthner, 2015.</div>\n</div>",
+        "citation": "<span>Barakatullo Ashurov, “Inculturation Matérielle de l’Église d’Orient En Asie Centrale: Témoignages Archéologiques,” in <i>Le Christianisme Syriaque En Asie Centrale et En Chine</i>, ed. Pier Giorgio Borbone and Pierre Marsone, Études Syriaques 12 (Paris: Geuthner, 2015), 161–84.</span>",
+        "coins": "<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Inculturation%20mat%C3%A9rielle%20de%20l%E2%80%99%C3%89glise%20d%E2%80%99Orient%20en%20Asie%20centrale%3A%20t%C3%A9moignages%20arch%C3%A9ologiques&amp;rft.btitle=Le%20christianisme%20syriaque%20en%20Asie%20Centrale%20et%20en%20Chine&amp;rft.place=Paris&amp;rft.publisher=Geuthner&amp;rft.series=%C3%89tudes%20syriaques%2012&amp;rft.aufirst=Barakatullo&amp;rft.aulast=Ashurov&amp;rft.au=Barakatullo%20Ashurov&amp;rft.au=Pier%20Giorgio%20Borbone&amp;rft.au=Pierre%20Marsone&amp;rft.date=2015&amp;rft.pages=161-184&amp;rft.spage=161&amp;rft.epage=184'></span>\n",
+        "data": {
+            "key": "BHGU7FVQ",
+            "version": 2765,
+            "itemType": "bookSection",
+            "title": "Inculturation matérielle de l’Église d’Orient en Asie centrale: témoignages archéologiques",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Barakatullo",
+                    "lastName": "Ashurov"
+                },
+                {
+                    "creatorType": "editor",
+                    "firstName": "Pier Giorgio",
+                    "lastName": "Borbone"
+                },
+                {
+                    "creatorType": "editor",
+                    "firstName": "Pierre",
+                    "lastName": "Marsone"
+                }
+            ],
+            "abstractNote": "",
+            "bookTitle": "Le christianisme syriaque en Asie Centrale et en Chine",
+            "series": "Études syriaques 12",
+            "seriesNumber": "",
+            "volume": "",
+            "numberOfVolumes": "",
+            "edition": "",
+            "place": "Paris",
+            "publisher": "Geuthner",
+            "date": "2015",
+            "pages": "161-184",
+            "language": "",
+            "ISBN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "Nestorians"
+                },
+                {
+                    "tag": "Sogdians"
+                },
+                {
+                    "tag": "Syriac influence [Central Asia]"
+                },
+                {
+                    "tag": "VII-XVIII CE"
+                },
+                {
+                    "tag": "archaeology"
+                }
+            ],
+            "collections": [
+                "P4VVZ7P6",
+                "YL2LZXJD"
+            ],
+            "relations": {},
+            "dateAdded": "2022-11-18T14:30:37Z",
+            "dateModified": "2022-11-18T14:30:37Z"
+        }
+    },
+    {
+        "key": "SAHTWL6X",
+        "version": 2765,
+        "library": {
+            "type": "group",
+            "id": 4861694,
+            "name": "A Comprehensive Bibliography on Syriac Studies",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/4861694/items/SAHTWL6X",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies/items/SAHTWL6X",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 8978841,
+                "username": "cbsc_admin",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/cbsc_admin",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Ashurov",
+            "parsedDate": "2017",
+            "numChildren": 0
+        },
+        "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Ashurov, Barakatullo. &#x201C;Text and Manuscript: On Succession and Preservation of Syrian Literature in Sughdian Christian Texts.&#x201D; <i>Khujand State University, Scinentific Notes</i> 1 [50] (2017): 137&#x2013;43.</div>\n</div>",
+        "citation": "<span>Barakatullo Ashurov, “Text and Manuscript: On Succession and Preservation of Syrian Literature in Sughdian Christian Texts,” <i>Khujand State University, Scinentific Notes</i> 1 [50] (2017): 137–43.</span>",
+        "coins": "<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Text%20and%20Manuscript%3A%20On%20Succession%20and%20Preservation%20of%20Syrian%20Literature%20in%20Sughdian%20Christian%20Texts&amp;rft.jtitle=Khujand%20State%20University%2C%20Scinentific%20Notes&amp;rft.volume=1%20%5B50%5D&amp;rft.aufirst=Barakatullo&amp;rft.aulast=Ashurov&amp;rft.au=Barakatullo%20Ashurov&amp;rft.date=2017&amp;rft.pages=137-143&amp;rft.spage=137&amp;rft.epage=143&amp;rft.language=Tajik'></span>\n",
+        "data": {
+            "key": "SAHTWL6X",
+            "version": 2765,
+            "itemType": "journalArticle",
+            "title": "Text and Manuscript: On Succession and Preservation of Syrian Literature in Sughdian Christian Texts",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Barakatullo",
+                    "lastName": "Ashurov"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Khujand State University, Scinentific Notes",
+            "volume": "1 [50]",
+            "issue": "",
+            "pages": "137-143",
+            "date": "2017",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "Tajik",
+            "DOI": "",
+            "ISSN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "Nestorians"
+                },
+                {
+                    "tag": "Sogdians"
+                },
+                {
+                    "tag": "Syriac influence [Central Asia]"
+                },
+                {
+                    "tag": "VII-XVIII CE"
+                },
+                {
+                    "tag": "translations from Syriac"
+                },
+                {
+                    "tag": "translations into Sogdian"
+                }
+            ],
+            "collections": [
+                "P4VVZ7P6",
+                "YL2LZXJD"
+            ],
+            "relations": {},
+            "dateAdded": "2022-11-18T14:30:37Z",
+            "dateModified": "2022-11-18T14:30:37Z"
+        }
+    },
+    {
+        "key": "6RXDQRWV",
+        "version": 2766,
+        "library": {
+            "type": "group",
+            "id": 4861694,
+            "name": "A Comprehensive Bibliography on Syriac Studies",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/4861694/items/6RXDQRWV",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies/items/6RXDQRWV",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 8978841,
+                "username": "cbsc_admin",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/cbsc_admin",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Asmussen",
+            "parsedDate": "1973",
+            "numChildren": 0
+        },
+        "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Asmussen, Jes P. &#x201C;Der Apokryphe Dritte Korintherbrief in Der Armenischen Tradition.&#x201D; <i>Acta Orientalia</i> 35 (1973): 51&#x2013;55.</div>\n</div>",
+        "citation": "<span>Jes P. Asmussen, “Der Apokryphe Dritte Korintherbrief in Der Armenischen Tradition,” <i>Acta Orientalia</i> 35 (1973): 51–55.</span>",
+        "coins": "<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Der%20apokryphe%20dritte%20Korintherbrief%20in%20der%20armenischen%20Tradition&amp;rft.jtitle=Acta%20Orientalia&amp;rft.volume=35&amp;rft.aufirst=Jes%20P.&amp;rft.aulast=Asmussen&amp;rft.au=Jes%20P.%20Asmussen&amp;rft.date=1973&amp;rft.pages=51-55&amp;rft.spage=51&amp;rft.epage=55'></span>\n",
+        "data": {
+            "key": "6RXDQRWV",
+            "version": 2766,
+            "itemType": "journalArticle",
+            "title": "Der apokryphe dritte Korintherbrief in der armenischen Tradition",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Jes P.",
+                    "lastName": "Asmussen"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Acta Orientalia",
+            "volume": "35",
+            "issue": "",
+            "pages": "51-55",
+            "date": "1973",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "",
+            "DOI": "",
+            "ISSN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "3 Corinthians"
+                },
+                {
+                    "tag": "Ephrem"
+                },
+                {
+                    "tag": "Ephremiana [Armenian]"
+                },
+                {
+                    "tag": "NT apocrypha"
+                },
+                {
+                    "tag": "Syriac influence [Armenia]"
+                }
+            ],
+            "collections": [
+                "P4VVZ7P6",
+                "YL2LZXJD"
+            ],
+            "relations": {},
+            "dateAdded": "2022-11-18T14:30:37Z",
+            "dateModified": "2022-11-18T14:30:37Z"
+        }
+    },
+    {
+        "key": "6LCHHCHA",
+        "version": 2766,
+        "library": {
+            "type": "group",
+            "id": 4861694,
+            "name": "A Comprehensive Bibliography on Syriac Studies",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/4861694/items/6LCHHCHA",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies/items/6LCHHCHA",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 8978841,
+                "username": "cbsc_admin",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/cbsc_admin",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Asmussen",
+            "parsedDate": "1989",
+            "numChildren": 0
+        },
+        "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Asmussen, Jes P. &#x201C;Bar K&#x14D;nay, Theodore.&#x201D; In <i>Encyclopaedia Iranica</i>, edited by Ehsan Yarshater, 3:737&#x2013;38. London: Routledge &amp; Kegan Paul, 1989.</div>\n</div>",
+        "citation": "<span>Jes P. Asmussen, “Bar Kōnay, Theodore,” in <i>Encyclopaedia Iranica</i>, ed. Ehsan Yarshater, vol. 3 (London: Routledge &#38; Kegan Paul, 1989), 737–38.</span>",
+        "coins": "<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Bar%20K%C5%8Dnay%2C%20Theodore&amp;rft.btitle=Encyclopaedia%20Iranica&amp;rft.place=London&amp;rft.publisher=Routledge%20%26%20Kegan%20Paul&amp;rft.aufirst=Jes%20P.&amp;rft.aulast=Asmussen&amp;rft.au=Jes%20P.%20Asmussen&amp;rft.au=Ehsan%20Yarshater&amp;rft.date=1989&amp;rft.pages=737-738&amp;rft.spage=737&amp;rft.epage=738'></span>\n",
+        "data": {
+            "key": "6LCHHCHA",
+            "version": 2766,
+            "itemType": "bookSection",
+            "title": "Bar Kōnay, Theodore",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Jes P.",
+                    "lastName": "Asmussen"
+                },
+                {
+                    "creatorType": "editor",
+                    "firstName": "Ehsan",
+                    "lastName": "Yarshater"
+                }
+            ],
+            "abstractNote": "",
+            "bookTitle": "Encyclopaedia Iranica",
+            "series": "",
+            "seriesNumber": "",
+            "volume": "3",
+            "numberOfVolumes": "",
+            "edition": "",
+            "place": "London",
+            "publisher": "Routledge & Kegan Paul",
+            "date": "1989",
+            "pages": "737-738",
+            "language": "",
+            "ISBN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "Iran"
+                },
+                {
+                    "tag": "Nestorians"
+                },
+                {
+                    "tag": "Theodore bar Koni"
+                },
+                {
+                    "tag": "VIII CE"
+                },
+                {
+                    "tag": "Zoroastrianism"
+                }
+            ],
+            "collections": [
+                "P4VVZ7P6",
+                "YL2LZXJD"
+            ],
+            "relations": {},
+            "dateAdded": "2022-11-18T14:30:37Z",
+            "dateModified": "2022-11-18T14:30:37Z"
+        }
+    },
+    {
+        "key": "KF8UHGG4",
+        "version": 2766,
+        "library": {
+            "type": "group",
+            "id": 4861694,
+            "name": "A Comprehensive Bibliography on Syriac Studies",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/4861694/items/KF8UHGG4",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies/items/KF8UHGG4",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 8978841,
+                "username": "cbsc_admin",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/cbsc_admin",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Asmussen",
+            "parsedDate": "1962",
+            "numChildren": 0
+        },
+        "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Asmussen, Jes P. &#x201C;Das Christentum in Iran Und Sein Verh&#xE4;ltnis Zum Zoroastrismus.&#x201D; <i>Studia Theologica</i> 16 (1962): 1&#x2013;24.</div>\n</div>",
+        "citation": "<span>Jes P. Asmussen, “Das Christentum in Iran Und Sein Verhältnis Zum Zoroastrismus,” <i>Studia Theologica</i> 16 (1962): 1–24.</span>",
+        "coins": "<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Das%20Christentum%20in%20Iran%20und%20sein%20Verh%C3%A4ltnis%20zum%20Zoroastrismus&amp;rft.jtitle=Studia%20Theologica&amp;rft.volume=16&amp;rft.aufirst=Jes%20P.&amp;rft.aulast=Asmussen&amp;rft.au=Jes%20P.%20Asmussen&amp;rft.date=1962&amp;rft.pages=1-24&amp;rft.spage=1&amp;rft.epage=24'></span>\n",
+        "data": {
+            "key": "KF8UHGG4",
+            "version": 2766,
+            "itemType": "journalArticle",
+            "title": "Das Christentum in Iran und sein Verhältnis zum Zoroastrismus",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Jes P.",
+                    "lastName": "Asmussen"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Studia Theologica",
+            "volume": "16",
+            "issue": "",
+            "pages": "1-24",
+            "date": "1962",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "",
+            "DOI": "",
+            "ISSN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "Iran"
+                },
+                {
+                    "tag": "Zoroastrianism"
+                },
+                {
+                    "tag": "polemic"
+                }
+            ],
+            "collections": [
+                "P4VVZ7P6",
+                "YL2LZXJD"
+            ],
+            "relations": {},
+            "dateAdded": "2022-11-18T14:30:37Z",
+            "dateModified": "2022-11-18T14:30:37Z"
+        }
+    },
+    {
+        "key": "U9PWGIHZ",
+        "version": 2766,
+        "library": {
+            "type": "group",
+            "id": 4861694,
+            "name": "A Comprehensive Bibliography on Syriac Studies",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/4861694/items/U9PWGIHZ",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies/items/U9PWGIHZ",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 8978841,
+                "username": "cbsc_admin",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/cbsc_admin",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Asmussen",
+            "parsedDate": "1964",
+            "numChildren": 0
+        },
+        "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Asmussen, Jes P. &#x201C;The Pahlavi Psalm 122 in English.&#x201D; In <i>Dr. J. M. Unvala Memorial Volume</i>, edited by Ali Sami, 123&#x2013;26. Bombay: Kaikhusroo M. Jamaspasa, 1964.</div>\n</div>",
+        "citation": "<span>Jes P. Asmussen, “The Pahlavi Psalm 122 in English,” in <i>Dr. J. M. Unvala Memorial Volume</i>, ed. Ali Sami (Bombay: Kaikhusroo M. Jamaspasa, 1964), 123–26.</span>",
+        "coins": "<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=The%20Pahlavi%20Psalm%20122%20in%20English&amp;rft.btitle=Dr.%20J.%20M.%20Unvala%20Memorial%20Volume&amp;rft.place=Bombay&amp;rft.publisher=Kaikhusroo%20M.%20Jamaspasa&amp;rft.aufirst=Jes%20P.&amp;rft.aulast=Asmussen&amp;rft.au=Jes%20P.%20Asmussen&amp;rft.au=Ali%20Sami&amp;rft.date=1964&amp;rft.pages=123-126&amp;rft.spage=123&amp;rft.epage=126'></span>\n",
+        "data": {
+            "key": "U9PWGIHZ",
+            "version": 2766,
+            "itemType": "bookSection",
+            "title": "The Pahlavi Psalm 122 in English",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Jes P.",
+                    "lastName": "Asmussen"
+                },
+                {
+                    "creatorType": "editor",
+                    "firstName": "Ali",
+                    "lastName": "Sami"
+                }
+            ],
+            "abstractNote": "",
+            "bookTitle": "Dr. J. M. Unvala Memorial Volume",
+            "series": "",
+            "seriesNumber": "",
+            "volume": "",
+            "numberOfVolumes": "",
+            "edition": "",
+            "place": "Bombay",
+            "publisher": "Kaikhusroo M. Jamaspasa",
+            "date": "1964",
+            "pages": "123-126",
+            "language": "",
+            "ISBN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "IV-VII CE"
+                },
+                {
+                    "tag": "Nestorians"
+                },
+                {
+                    "tag": "Old Testament"
+                },
+                {
+                    "tag": "Pahlavi Psalter"
+                },
+                {
+                    "tag": "Ps 122"
+                },
+                {
+                    "tag": "Psalms"
+                },
+                {
+                    "tag": "Syriac influence [Persia]"
+                },
+                {
+                    "tag": "Turfan"
+                },
+                {
+                    "tag": "translations from Syriac"
+                },
+                {
+                    "tag": "translations into Persian"
+                }
+            ],
+            "collections": [
+                "P4VVZ7P6",
+                "YL2LZXJD"
+            ],
+            "relations": {},
+            "dateAdded": "2022-11-18T14:30:37Z",
+            "dateModified": "2022-11-18T14:30:37Z"
+        }
+    },
+    {
+        "key": "EP3TGQRU",
+        "version": 2685,
+        "library": {
+            "type": "group",
+            "id": 4861694,
+            "name": "A Comprehensive Bibliography on Syriac Studies",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/4861694/items/EP3TGQRU",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies/items/EP3TGQRU",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 8978841,
+                "username": "cbsc_admin",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/cbsc_admin",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "parsedDate": "1969",
+            "numChildren": 0
+        },
+        "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">&#x201C;L&#x2019;aspect Juridique de La Crise Assyrienne.&#x201D; <i>Proche-Orient Chr&#xE9;tien</i> 19 (1969): 220&#x2013;33.</div>\n</div>",
+        "citation": "<span>“L’aspect Juridique de La Crise Assyrienne,” <i>Proche-Orient Chrétien</i> 19 (1969): 220–33.</span>",
+        "coins": "<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=L%E2%80%99aspect%20juridique%20de%20la%20crise%20assyrienne&amp;rft.jtitle=Proche-Orient%20Chr%C3%A9tien&amp;rft.volume=19&amp;rft.date=1969&amp;rft.pages=220-233&amp;rft.spage=220&amp;rft.epage=233'></span>\n",
+        "data": {
+            "key": "EP3TGQRU",
+            "version": 2685,
+            "itemType": "journalArticle",
+            "title": "L’aspect juridique de la crise assyrienne",
+            "creators": [],
+            "abstractNote": "",
+            "publicationTitle": "Proche-Orient Chrétien",
+            "volume": "19",
+            "issue": "",
+            "pages": "220-233",
+            "date": "1969",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "",
+            "DOI": "",
+            "ISSN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "Nestorians"
+                },
+                {
+                    "tag": "XIX-XXI CE"
+                },
+                {
+                    "tag": "XX CE"
+                }
+            ],
+            "collections": [
+                "P4VVZ7P6",
+                "YL2LZXJD"
+            ],
+            "relations": {},
+            "dateAdded": "2022-11-18T14:30:28Z",
+            "dateModified": "2022-11-18T14:30:28Z"
+        }
+    },
+    {
+        "key": "2MGEDSV4",
+        "version": 2766,
+        "library": {
+            "type": "group",
+            "id": 4861694,
+            "name": "A Comprehensive Bibliography on Syriac Studies",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/4861694/items/2MGEDSV4",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies/items/2MGEDSV4",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 8978841,
+                "username": "cbsc_admin",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/cbsc_admin",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Assad",
+            "parsedDate": "2015",
+            "numChildren": 0
+        },
+        "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Assad, Elias Malke. <i>Pearls from Heaven</i>. London: the author, 2015.</div>\n</div>",
+        "citation": "<span>Elias Malke Assad, <i>Pearls from Heaven</i> (London: the author, 2015).</span>",
+        "coins": "<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Pearls%20from%20Heaven&amp;rft.place=London&amp;rft.publisher=the%20author&amp;rft.aufirst=Elias%20Malke&amp;rft.aulast=Assad&amp;rft.au=Elias%20Malke%20Assad&amp;rft.date=2015'></span>\n",
+        "data": {
+            "key": "2MGEDSV4",
+            "version": 2766,
+            "itemType": "book",
+            "title": "Pearls from Heaven",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Elias Malke",
+                    "lastName": "Assad"
+                }
+            ],
+            "abstractNote": "",
+            "series": "",
+            "seriesNumber": "",
+            "volume": "",
+            "numberOfVolumes": "",
+            "edition": "",
+            "place": "London",
+            "publisher": "the author",
+            "date": "2015",
+            "numPages": "",
+            "language": "",
+            "ISBN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "amulets"
+                },
+                {
+                    "tag": "archaeology"
+                },
+                {
+                    "tag": "magic"
+                },
+                {
+                    "tag": "manuscripts"
+                }
+            ],
+            "collections": [
+                "P4VVZ7P6",
+                "YL2LZXJD"
+            ],
+            "relations": {},
+            "dateAdded": "2022-11-18T14:30:37Z",
+            "dateModified": "2022-11-18T14:30:37Z"
+        }
+    },
+    {
+        "key": "WTAYZA85",
+        "version": 2766,
+        "library": {
+            "type": "group",
+            "id": 4861694,
+            "name": "A Comprehensive Bibliography on Syriac Studies",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/4861694/items/WTAYZA85",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies/items/WTAYZA85",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 8978841,
+                "username": "cbsc_admin",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/cbsc_admin",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Assefa",
+            "parsedDate": "2016",
+            "numChildren": 0
+        },
+        "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Assefa, Daniel. &#x201C;Mary&#x2019;s Apparition to Saint Ephrem the Syrian in Ethiopic Tradition.&#x201D; <i>The Harp</i> 31 (2016): 347&#x2013;56.</div>\n</div>",
+        "citation": "<span>Daniel Assefa, “Mary’s Apparition to Saint Ephrem the Syrian in Ethiopic Tradition,” <i>The Harp</i> 31 (2016): 347–56.</span>",
+        "coins": "<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Mary%E2%80%99s%20Apparition%20to%20Saint%20Ephrem%20the%20Syrian%20in%20Ethiopic%20Tradition&amp;rft.jtitle=The%20Harp&amp;rft.volume=31&amp;rft.aufirst=Daniel&amp;rft.aulast=Assefa&amp;rft.au=Daniel%20Assefa&amp;rft.date=2016&amp;rft.pages=347-356&amp;rft.spage=347&amp;rft.epage=356'></span>\n",
+        "data": {
+            "key": "WTAYZA85",
+            "version": 2766,
+            "itemType": "journalArticle",
+            "title": "Mary’s Apparition to Saint Ephrem the Syrian in Ethiopic Tradition",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Daniel",
+                    "lastName": "Assefa"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "The Harp",
+            "volume": "31",
+            "issue": "",
+            "pages": "347-356",
+            "date": "2016",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "",
+            "DOI": "",
+            "ISSN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "Ephrem"
+                },
+                {
+                    "tag": "Mary"
+                },
+                {
+                    "tag": "Syriac influence [Ethiopia]"
+                },
+                {
+                    "tag": "VII-XVIII CE"
+                },
+                {
+                    "tag": "miracles"
+                }
+            ],
+            "collections": [
+                "P4VVZ7P6",
+                "YL2LZXJD"
+            ],
+            "relations": {},
+            "dateAdded": "2022-11-18T14:30:37Z",
+            "dateModified": "2022-11-18T14:30:37Z"
+        }
+    },
+    {
+        "key": "Z26NMSVE",
+        "version": 2767,
+        "library": {
+            "type": "group",
+            "id": 4861694,
+            "name": "A Comprehensive Bibliography on Syriac Studies",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/4861694/items/Z26NMSVE",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies/items/Z26NMSVE",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 8978841,
+                "username": "cbsc_admin",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/cbsc_admin",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Assemani",
+            "parsedDate": "1775",
+            "numChildren": 1
+        },
+        "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Assemani, Joseph Simonius. <i>De Catholicis Seu Patriarchis Chaldaeorum et Nestorianorum, Commentarius Historico-Chronologicus</i>. Roma, 1775.</div>\n</div>",
+        "citation": "<span>Joseph Simonius Assemani, <i>De Catholicis Seu Patriarchis Chaldaeorum et Nestorianorum, Commentarius Historico-Chronologicus</i> (Roma, 1775).</span>",
+        "coins": "<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=De%20Catholicis%20seu%20Patriarchis%20Chaldaeorum%20et%20Nestorianorum%2C%20Commentarius%20Historico-Chronologicus&amp;rft.place=Roma&amp;rft.aufirst=Joseph%20Simonius&amp;rft.aulast=Assemani&amp;rft.au=Joseph%20Simonius%20Assemani&amp;rft.date=1775'></span>\n",
+        "data": {
+            "key": "Z26NMSVE",
+            "version": 2767,
+            "itemType": "book",
+            "title": "De Catholicis seu Patriarchis Chaldaeorum et Nestorianorum, Commentarius Historico-Chronologicus",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Joseph Simonius",
+                    "lastName": "Assemani"
+                }
+            ],
+            "abstractNote": "",
+            "series": "",
+            "seriesNumber": "",
+            "volume": "",
+            "numberOfVolumes": "",
+            "edition": "",
+            "place": "Roma",
+            "publisher": "",
+            "date": "1775",
+            "numPages": "",
+            "language": "",
+            "ISBN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "Nestorians"
+                },
+                {
+                    "tag": "clergy"
+                },
+                {
+                    "tag": "patriarchs"
+                }
+            ],
+            "collections": [
+                "P4VVZ7P6",
+                "YL2LZXJD"
+            ],
+            "relations": {},
+            "dateAdded": "2022-11-18T14:30:37Z",
+            "dateModified": "2022-11-18T14:30:37Z"
+        }
+    },
+    {
+        "key": "UTTKBE8B",
+        "version": 2767,
+        "library": {
+            "type": "group",
+            "id": 4861694,
+            "name": "A Comprehensive Bibliography on Syriac Studies",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/4861694/items/UTTKBE8B",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies/items/UTTKBE8B",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 8978841,
+                "username": "cbsc_admin",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/cbsc_admin",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Assénat and Pérez",
+            "parsedDate": "2017",
+            "numChildren": 0
+        },
+        "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Ass&#xE9;nat, Martine, and Antoine P&#xE9;rez. &#x201C;La Topographie Antique d&#x2019;Amida (III<sup>e</sup> Si&#xE8;cle Apr&#xE8;s J.-C. &#x2013; VI<sup>e</sup> Si&#xE8;cle Apr&#xE8;s J.-C.) d&#x2019;apr&#xE8;s Les Sources Litt&#xE9;raires.&#x201D; In <i>New Cities in Late Antiquity: Documents and Archaeology</i>, edited by Efthymios Rizos, 57&#x2013;70. Biblioth&#xE8;que de l&#x2019;Antiquit&#xE9; Tardive 35. Turnhout: Brepols, 2017.</div>\n</div>",
+        "citation": "<span>Martine Assénat and Antoine Pérez, “La Topographie Antique d’Amida (III<sup>e</sup> Siècle Après J.-C. – VI<sup>e</sup> Siècle Après J.-C.) d’après Les Sources Littéraires,” in <i>New Cities in Late Antiquity: Documents and Archaeology</i>, ed. Efthymios Rizos, Bibliothèque de l’Antiquité Tardive 35 (Turnhout: Brepols, 2017), 57–70.</span>",
+        "coins": "<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=La%20topographie%20antique%20d%E2%80%99Amida%20(III%3Csup%3Ee%3C%2Fsup%3E%20si%C3%A8cle%20apr%C3%A8s%20J.-C.%20%E2%80%93%20VI%3Csup%3Ee%3C%2Fsup%3E%20si%C3%A8cle%20apr%C3%A8s%20J.-C.)%20d%E2%80%99apr%C3%A8s%20les%20sources%20litt%C3%A9raires&amp;rft.btitle=New%20Cities%20in%20Late%20Antiquity%3A%20Documents%20and%20Archaeology&amp;rft.place=Turnhout&amp;rft.publisher=Brepols&amp;rft.series=Biblioth%C3%A8que%20de%20l%E2%80%99Antiquit%C3%A9%20Tardive%2035&amp;rft.aufirst=Martine&amp;rft.aulast=Ass%C3%A9nat&amp;rft.au=Martine%20Ass%C3%A9nat&amp;rft.au=Antoine%20P%C3%A9rez&amp;rft.au=Efthymios%20Rizos&amp;rft.date=2017&amp;rft.pages=57-70&amp;rft.spage=57&amp;rft.epage=70'></span>\n",
+        "data": {
+            "key": "UTTKBE8B",
+            "version": 2767,
+            "itemType": "bookSection",
+            "title": "La topographie antique d’Amida (III<sup>e</sup> siècle après J.-C. – VI<sup>e</sup> siècle après J.-C.) d’après les sources littéraires",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Martine",
+                    "lastName": "Assénat"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Antoine",
+                    "lastName": "Pérez"
+                },
+                {
+                    "creatorType": "editor",
+                    "firstName": "Efthymios",
+                    "lastName": "Rizos"
+                }
+            ],
+            "abstractNote": "",
+            "bookTitle": "New Cities in Late Antiquity: Documents and Archaeology",
+            "series": "Bibliothèque de l’Antiquité Tardive 35",
+            "seriesNumber": "",
+            "volume": "",
+            "numberOfVolumes": "",
+            "edition": "",
+            "place": "Turnhout",
+            "publisher": "Brepols",
+            "date": "2017",
+            "pages": "57-70",
+            "language": "",
+            "ISBN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "Amida"
+                },
+                {
+                    "tag": "Byzantine Syria"
+                },
+                {
+                    "tag": "IV-VII CE"
+                },
+                {
+                    "tag": "archaeology"
+                },
+                {
+                    "tag": "cities"
+                }
+            ],
+            "collections": [
+                "P4VVZ7P6",
+                "YL2LZXJD"
+            ],
+            "relations": {},
+            "dateAdded": "2022-11-18T14:30:38Z",
+            "dateModified": "2022-11-18T14:30:38Z"
+        }
+    }
+]
