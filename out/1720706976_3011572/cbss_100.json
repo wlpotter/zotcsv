@@ -1,0 +1,741 @@
+[
+    {
+        "key": "924RIIYD",
+        "version": 2809,
+        "library": {
+            "type": "group",
+            "id": 4861694,
+            "name": "A Comprehensive Bibliography on Syriac Studies",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/4861694/items/924RIIYD",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies/items/924RIIYD",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 8978841,
+                "username": "cbsc_admin",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/cbsc_admin",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Barnes",
+            "parsedDate": "1904",
+            "numChildren": 1
+        },
+        "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Barnes, William Emery. <i>The Peshitta Psalter According to the West Syrian Text, Edited with an Apparatus Criticus</i>. Cambridge: Cambridge University Press, 1904.</div>\n</div>",
+        "citation": "<span>William Emery Barnes, <i>The Peshitta Psalter According to the West Syrian Text, Edited with an Apparatus Criticus</i> (Cambridge: Cambridge University Press, 1904).</span>",
+        "coins": "<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The%20Peshitta%20Psalter%20according%20to%20the%20West%20Syrian%20Text%2C%20Edited%20with%20an%20Apparatus%20Criticus&amp;rft.place=Cambridge&amp;rft.publisher=Cambridge%20University%20Press&amp;rft.aufirst=William%20Emery&amp;rft.aulast=Barnes&amp;rft.au=William%20Emery%20Barnes&amp;rft.date=1904&amp;rft.tpages=lxi%2C%20227'></span>\n",
+        "data": {
+            "key": "924RIIYD",
+            "version": 2809,
+            "itemType": "book",
+            "title": "The Peshitta Psalter according to the West Syrian Text, Edited with an Apparatus Criticus",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "William Emery",
+                    "lastName": "Barnes"
+                }
+            ],
+            "abstractNote": "",
+            "series": "",
+            "seriesNumber": "",
+            "volume": "",
+            "numberOfVolumes": "",
+            "edition": "",
+            "place": "Cambridge",
+            "publisher": "Cambridge University Press",
+            "date": "1904",
+            "numPages": "lxi, 227",
+            "language": "",
+            "ISBN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "Citation Key: Sergey (file)",
+            "tags": [
+                {
+                    "tag": "Old Testament"
+                },
+                {
+                    "tag": "Peshitta OT"
+                },
+                {
+                    "tag": "Psalms"
+                },
+                {
+                    "tag": "primary sources [Syriac]"
+                }
+            ],
+            "collections": [
+                "P4VVZ7P6",
+                "YL2LZXJD"
+            ],
+            "relations": {},
+            "dateAdded": "2022-11-18T14:30:42Z",
+            "dateModified": "2022-11-18T14:30:42Z"
+        }
+    },
+    {
+        "key": "HMKWD4EV",
+        "version": 2809,
+        "library": {
+            "type": "group",
+            "id": 4861694,
+            "name": "A Comprehensive Bibliography on Syriac Studies",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/4861694/items/HMKWD4EV",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies/items/HMKWD4EV",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 8978841,
+                "username": "cbsc_admin",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/cbsc_admin",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Barnes",
+            "parsedDate": "1906",
+            "numChildren": 0
+        },
+        "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Barnes, William Emery. &#x201C;The &#x2018;Nicene&#x2019; Creed in the Syriac Psalter.&#x201D; <i>Journal of Theological Studies</i> OS 7 [27] (1906): 441&#x2013;49.</div>\n</div>",
+        "citation": "<span>William Emery Barnes, “The ‘Nicene’ Creed in the Syriac Psalter,” <i>Journal of Theological Studies</i> OS 7 [27] (1906): 441–49.</span>",
+        "coins": "<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The%20%E2%80%98Nicene%E2%80%99%20Creed%20in%20the%20Syriac%20Psalter&amp;rft.jtitle=Journal%20of%20Theological%20Studies&amp;rft.volume=OS%207%20%5B27%5D&amp;rft.aufirst=William%20Emery&amp;rft.aulast=Barnes&amp;rft.au=William%20Emery%20Barnes&amp;rft.date=1906&amp;rft.pages=441-449&amp;rft.spage=441&amp;rft.epage=449'></span>\n",
+        "data": {
+            "key": "HMKWD4EV",
+            "version": 2809,
+            "itemType": "journalArticle",
+            "title": "The ‘Nicene’ Creed in the Syriac Psalter",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "William Emery",
+                    "lastName": "Barnes"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Journal of Theological Studies",
+            "volume": "OS 7 [27]",
+            "issue": "",
+            "pages": "441-449",
+            "date": "1906",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "",
+            "DOI": "",
+            "ISSN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "Citation Key: Sergey (file)",
+            "tags": [
+                {
+                    "tag": "Jacobites"
+                },
+                {
+                    "tag": "Nestorians"
+                },
+                {
+                    "tag": "Nicaea"
+                },
+                {
+                    "tag": "Old Testament"
+                },
+                {
+                    "tag": "Peshitta OT"
+                },
+                {
+                    "tag": "Psalms"
+                },
+                {
+                    "tag": "creed"
+                },
+                {
+                    "tag": "theology"
+                }
+            ],
+            "collections": [
+                "P4VVZ7P6",
+                "YL2LZXJD"
+            ],
+            "relations": {},
+            "dateAdded": "2022-11-18T14:30:42Z",
+            "dateModified": "2022-11-18T14:30:42Z"
+        }
+    },
+    {
+        "key": "HU8KMA4W",
+        "version": 2809,
+        "library": {
+            "type": "group",
+            "id": 4861694,
+            "name": "A Comprehensive Bibliography on Syriac Studies",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/4861694/items/HU8KMA4W",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies/items/HU8KMA4W",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 8978841,
+                "username": "cbsc_admin",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/cbsc_admin",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Barnes",
+            "parsedDate": "1910",
+            "numChildren": 0
+        },
+        "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Barnes, William Emery. &#x201C;The Text of the Odes of Solomon.&#x201D; <i>Journal of Theological Studies</i> OS 11:4 (1910): 573&#x2013;75.</div>\n</div>",
+        "citation": "<span>William Emery Barnes, “The Text of the Odes of Solomon,” <i>Journal of Theological Studies</i> OS 11:4 (1910): 573–75.</span>",
+        "coins": "<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The%20Text%20of%20the%20Odes%20of%20Solomon&amp;rft.jtitle=Journal%20of%20Theological%20Studies&amp;rft.volume=OS%2011%3A4&amp;rft.aufirst=William%20Emery&amp;rft.aulast=Barnes&amp;rft.au=William%20Emery%20Barnes&amp;rft.date=1910&amp;rft.pages=573-575&amp;rft.spage=573&amp;rft.epage=575'></span>\n",
+        "data": {
+            "key": "HU8KMA4W",
+            "version": 2809,
+            "itemType": "journalArticle",
+            "title": "The Text of the Odes of Solomon",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "William Emery",
+                    "lastName": "Barnes"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Journal of Theological Studies",
+            "volume": "OS 11:4",
+            "issue": "",
+            "pages": "573-575",
+            "date": "1910",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "",
+            "DOI": "",
+            "ISSN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "Citation Key: Sergey (file)",
+            "tags": [
+                {
+                    "tag": "I-III CE"
+                },
+                {
+                    "tag": "Odes of Solomon"
+                },
+                {
+                    "tag": "hymnography"
+                },
+                {
+                    "tag": "poetry"
+                }
+            ],
+            "collections": [
+                "P4VVZ7P6",
+                "YL2LZXJD"
+            ],
+            "relations": {},
+            "dateAdded": "2022-11-18T14:30:42Z",
+            "dateModified": "2022-11-18T14:30:42Z"
+        }
+    },
+    {
+        "key": "NRFJ3W7J",
+        "version": 2809,
+        "library": {
+            "type": "group",
+            "id": 4861694,
+            "name": "A Comprehensive Bibliography on Syriac Studies",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/4861694/items/NRFJ3W7J",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies/items/NRFJ3W7J",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 8978841,
+                "username": "cbsc_admin",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/cbsc_admin",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Barnes",
+            "parsedDate": "1913",
+            "numChildren": 0
+        },
+        "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Barnes, William Emery. &#x201C;A New Edition of the Pentateuch in Syriac.&#x201D; <i>Journal of Theological Studies</i> OS 15 [57] (1913): 41&#x2013;44.</div>\n</div>",
+        "citation": "<span>William Emery Barnes, “A New Edition of the Pentateuch in Syriac,” <i>Journal of Theological Studies</i> OS 15 [57] (1913): 41–44.</span>",
+        "coins": "<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=A%20New%20Edition%20of%20the%20Pentateuch%20in%20Syriac&amp;rft.jtitle=Journal%20of%20Theological%20Studies&amp;rft.volume=OS%2015%20%5B57%5D&amp;rft.aufirst=William%20Emery&amp;rft.aulast=Barnes&amp;rft.au=William%20Emery%20Barnes&amp;rft.date=1913&amp;rft.pages=41-44&amp;rft.spage=41&amp;rft.epage=44'></span>\n",
+        "data": {
+            "key": "NRFJ3W7J",
+            "version": 2809,
+            "itemType": "journalArticle",
+            "title": "A New Edition of the Pentateuch in Syriac",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "William Emery",
+                    "lastName": "Barnes"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Journal of Theological Studies",
+            "volume": "OS 15 [57]",
+            "issue": "",
+            "pages": "41-44",
+            "date": "1913",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "",
+            "DOI": "",
+            "ISSN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "Citation Key: Sergey (file)",
+            "tags": [
+                {
+                    "tag": "Old Testament"
+                },
+                {
+                    "tag": "Pentateuch"
+                },
+                {
+                    "tag": "Peshitta OT"
+                }
+            ],
+            "collections": [
+                "P4VVZ7P6",
+                "YL2LZXJD"
+            ],
+            "relations": {},
+            "dateAdded": "2022-11-18T14:30:42Z",
+            "dateModified": "2022-11-18T14:30:42Z"
+        }
+    },
+    {
+        "key": "M9FQM357",
+        "version": 2810,
+        "library": {
+            "type": "group",
+            "id": 4861694,
+            "name": "A Comprehensive Bibliography on Syriac Studies",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/4861694/items/M9FQM357",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies/items/M9FQM357",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 8978841,
+                "username": "cbsc_admin",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/cbsc_admin",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Barrett",
+            "parsedDate": "2013",
+            "numChildren": 0
+        },
+        "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Barrett, Richard. &#x201C;Sensory Experience and the Women Martyrs of Najran.&#x201D; <i>Journal of Early Christian Studies</i> 21:1 (2013): 93&#x2013;109.</div>\n</div>",
+        "citation": "<span>Richard Barrett, “Sensory Experience and the Women Martyrs of Najran,” <i>Journal of Early Christian Studies</i> 21:1 (2013): 93–109.</span>",
+        "coins": "<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Sensory%20Experience%20and%20the%20Women%20Martyrs%20of%20Najran&amp;rft.jtitle=Journal%20of%20Early%20Christian%20Studies&amp;rft.volume=21%3A1&amp;rft.aufirst=Richard&amp;rft.aulast=Barrett&amp;rft.au=Richard%20Barrett&amp;rft.date=2013&amp;rft.pages=93-109&amp;rft.spage=93&amp;rft.epage=109'></span>\n",
+        "data": {
+            "key": "M9FQM357",
+            "version": 2810,
+            "itemType": "journalArticle",
+            "title": "Sensory Experience and the Women Martyrs of Najran",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Richard",
+                    "lastName": "Barrett"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Journal of Early Christian Studies",
+            "volume": "21:1",
+            "issue": "",
+            "pages": "93-109",
+            "date": "2013",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "",
+            "DOI": "",
+            "ISSN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "Citation Key: Sergey (file)",
+            "tags": [
+                {
+                    "tag": "IV-VII CE"
+                },
+                {
+                    "tag": "Jacobites"
+                },
+                {
+                    "tag": "Najran"
+                },
+                {
+                    "tag": "Simeon of Beth Arsham"
+                },
+                {
+                    "tag": "South Arabia"
+                },
+                {
+                    "tag": "VI CE"
+                },
+                {
+                    "tag": "hagiography"
+                },
+                {
+                    "tag": "letters"
+                },
+                {
+                    "tag": "liturgics"
+                },
+                {
+                    "tag": "martyrdom"
+                },
+                {
+                    "tag": "women"
+                }
+            ],
+            "collections": [
+                "P4VVZ7P6",
+                "YL2LZXJD"
+            ],
+            "relations": {},
+            "dateAdded": "2022-11-18T14:30:42Z",
+            "dateModified": "2022-11-18T14:30:42Z"
+        }
+    },
+    {
+        "key": "MBW5CZ77",
+        "version": 2810,
+        "library": {
+            "type": "group",
+            "id": 4861694,
+            "name": "A Comprehensive Bibliography on Syriac Studies",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/4861694/items/MBW5CZ77",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies/items/MBW5CZ77",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 8978841,
+                "username": "cbsc_admin",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/cbsc_admin",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Barrett",
+            "parsedDate": "2002",
+            "numChildren": 0
+        },
+        "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Barrett, Timothy H. &#x201C;Buddhism, Taoism and the Eighth-Century Chinese Term for Christianity: A Response to Recent Work by A. Forte and Others.&#x201D; <i>Bulletin of the School of Oriental and African Studies</i> 65:3 (2002): 555&#x2013;60.</div>\n</div>",
+        "citation": "<span>Timothy H. Barrett, “Buddhism, Taoism and the Eighth-Century Chinese Term for Christianity: A Response to Recent Work by A. Forte and Others,” <i>Bulletin of the School of Oriental and African Studies</i> 65:3 (2002): 555–60.</span>",
+        "coins": "<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Buddhism%2C%20Taoism%20and%20the%20Eighth-Century%20Chinese%20Term%20for%20Christianity%3A%20A%20Response%20to%20Recent%20Work%20by%20A.%20Forte%20and%20Others&amp;rft.jtitle=Bulletin%20of%20the%20School%20of%20Oriental%20and%20African%20Studies&amp;rft.volume=65%3A3&amp;rft.aufirst=Timothy%20H.&amp;rft.aulast=Barrett&amp;rft.au=Timothy%20H.%20Barrett&amp;rft.date=2002&amp;rft.pages=555-560&amp;rft.spage=555&amp;rft.epage=560'></span>\n",
+        "data": {
+            "key": "MBW5CZ77",
+            "version": 2810,
+            "itemType": "journalArticle",
+            "title": "Buddhism, Taoism and the Eighth-Century Chinese Term for Christianity: A Response to Recent Work by A. Forte and Others",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Timothy H.",
+                    "lastName": "Barrett"
+                }
+            ],
+            "abstractNote": "Although the presence of Nestorian Christianity in China under the Tang dynasty is a familiar enough matter to students of religion, many scholars in Chinese studies were until very recently reluctant to undertake substantial research into this topic, for the very good reason that they had been expecting the appearance of posthumous work on one of our main sources for this episode by Paul Pelliot (1878–1945), who was probably the greatest Asianist of the twentieth century. In 1984 Pelliot's translation of the source in question, the ‘Nestorian stele of Xian’, originally erected in 781 but first rediscovered in the seventeenth century, was actually published as part of a posthumous publication by another scholar, J. Dauvillier, who had been concerned primarily with the Syriac portions of the stele inscription. Since, however, Dauvillier's volume did not include any of Pelliot's copious notes to his translation, sinological scholarship was not substantially advanced by the appearance of this monograph.",
+            "publicationTitle": "Bulletin of the School of Oriental and African Studies",
+            "volume": "65:3",
+            "issue": "",
+            "pages": "555-560",
+            "date": "2002",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "",
+            "DOI": "",
+            "ISSN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "Citation Key: Sergey (file)",
+            "tags": [
+                {
+                    "tag": "Nestorians"
+                },
+                {
+                    "tag": "Syriac influence [China]"
+                },
+                {
+                    "tag": "VIII CE"
+                }
+            ],
+            "collections": [
+                "P4VVZ7P6",
+                "YL2LZXJD"
+            ],
+            "relations": {},
+            "dateAdded": "2022-11-18T14:30:42Z",
+            "dateModified": "2022-11-18T14:30:42Z"
+        }
+    },
+    {
+        "key": "I5C4ERMA",
+        "version": 2810,
+        "library": {
+            "type": "group",
+            "id": 4861694,
+            "name": "A Comprehensive Bibliography on Syriac Studies",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/4861694/items/I5C4ERMA",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/a_comprehensive_bibliography_on_syriac_studies/items/I5C4ERMA",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 8978841,
+                "username": "cbsc_admin",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/cbsc_admin",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Barrett",
+            "parsedDate": "2006",
+            "numChildren": 0
+        },
+        "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Barrett, Timothy H. &#x201C;Buddhism, Daoism and the Eighth-Century Chinese Term for Christianity: A Response to Recent Work by Antonio Forte and Others.&#x201D; In <i>Jingjiao: The Church of the East in China and Central Asia</i>, edited by Roman Malek and Peter L. Hofrichter, 45&#x2013;53. Collectanea Serica. Sankt Augustin: Institut Monumenta Serica, 2006.</div>\n</div>",
+        "citation": "<span>Timothy H. Barrett, “Buddhism, Daoism and the Eighth-Century Chinese Term for Christianity: A Response to Recent Work by Antonio Forte and Others,” in <i>Jingjiao: The Church of the East in China and Central Asia</i>, ed. Roman Malek and Peter L. Hofrichter, Collectanea Serica (Sankt Augustin: Institut Monumenta Serica, 2006), 45–53.</span>",
+        "coins": "<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Buddhism%2C%20Daoism%20and%20the%20Eighth-Century%20Chinese%20Term%20for%20Christianity%3A%20A%20Response%20to%20Recent%20Work%20by%20Antonio%20Forte%20and%20Others&amp;rft.btitle=Jingjiao%3A%20The%20Church%20of%20the%20East%20in%20China%20and%20Central%20Asia&amp;rft.place=Sankt%20Augustin&amp;rft.publisher=Institut%20Monumenta%20Serica&amp;rft.series=Collectanea%20Serica&amp;rft.aufirst=Timothy%20H.&amp;rft.aulast=Barrett&amp;rft.au=Timothy%20H.%20Barrett&amp;rft.au=Roman%20Malek&amp;rft.au=Peter%20L.%20Hofrichter&amp;rft.date=2006&amp;rft.pages=45-53&amp;rft.spage=45&amp;rft.epage=53'></span>\n",
+        "data": {
+            "key": "I5C4ERMA",
+            "version": 2810,
+            "itemType": "bookSection",
+            "title": "Buddhism, Daoism and the Eighth-Century Chinese Term for Christianity: A Response to Recent Work by Antonio Forte and Others",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Timothy H.",
+                    "lastName": "Barrett"
+                },
+                {
+                    "creatorType": "editor",
+                    "firstName": "Roman",
+                    "lastName": "Malek"
+                },
+                {
+                    "creatorType": "editor",
+                    "firstName": "Peter L.",
+                    "lastName": "Hofrichter"
+                }
+            ],
+            "abstractNote": "",
+            "bookTitle": "Jingjiao: The Church of the East in China and Central Asia",
+            "series": "Collectanea Serica",
+            "seriesNumber": "",
+            "volume": "",
+            "numberOfVolumes": "",
+            "edition": "",
+            "place": "Sankt Augustin",
+            "publisher": "Institut Monumenta Serica",
+            "date": "2006",
+            "pages": "45-53",
+            "language": "",
+            "ISBN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "Citation Key: Sergey (file)",
+            "tags": [
+                {
+                    "tag": "Buddhism"
+                },
+                {
+                    "tag": "Nestorians"
+                },
+                {
+                    "tag": "Syriac influence [China]"
+                },
+                {
+                    "tag": "VII-XVIII CE"
+                },
+                {
+                    "tag": "VIII CE"
+                }
+            ],
+            "collections": [
+                "P4VVZ7P6",
+                "YL2LZXJD"
+            ],
+            "relations": {},
+            "dateAdded": "2022-11-18T14:30:42Z",
+            "dateModified": "2022-11-18T14:30:42Z"
+        }
+    }
+]
