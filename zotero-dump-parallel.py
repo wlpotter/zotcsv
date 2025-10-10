@@ -1,33 +1,17 @@
 import asyncio
 import argparse
 import aiohttp
-import json
+import json, yaml
 import os
 from tenacity import retry, retry_if_exception, stop_after_attempt, wait_random_exponential
 
 """
 TODO:
-- re-running but just processing errors
-- handling since filtering
 - handling modified after filtering
-- setting config with command line, config file, etc. using argparse
+- add max retries and default backoff to config, and how to call from the retry functions
+- add checking for 429 and response delay header to tenacity retry
+- reorganize (and maybe split this whole thing out...into its own Python module/project)
 """
-# pass this to the main function
-config = {
-    "zotero_api_base": "https://api.zotero.org/groups/4861694/items/top",
-    "session_headers": {"Zotero-API-Version": '3'},
-    "limit_interval": 100,
-    "start_at": 0,
-    "max_records": 500,
-    "total_callers": 6,
-    "save_directory": "/home/arren/Documents/GitHub/zotcsv/2025-10-03_dump/",
-    "file_name_base": "zotero_dump2025-10-03_",
-    "log_path": "/home/arren/Documents/GitHub/zotcsv/2025-10-03_dump/log/",
-    "log_file_name": "log.json"
-}
-
-# MAX_RETRIES = 3
-# DEFAULT_BACKOFF_DELAY = 15
 
 # This function controls the number of concurrent calls by bounding the main
 # async coro within a Semaphore, limiting max concurrent operations
@@ -75,6 +59,7 @@ async def get_zotero_data(call_context, session, sleep_time=1):
     # Handle any other exception by returning it to the log
     except Exception as e:
         print(f"An unspecified error occurred processing an API call, see log for details")
+        print(e)
         logged_error = {
             "result": "Error",
             "context": call_context,
@@ -128,11 +113,54 @@ def log_success(file_path, call_context, url):
             }
     return logged_success
 
+def create_api_calls_list(config, max_limit: int, init_req_params, expected_keys):
+    if(config.get("errors_only") and config["errors_only"]):
+        return get_api_calls_list_from_error_log(config)
+    else:
+        return construct_api_calls_list(config=config, max_limit=max_limit, expected_keys=expected_keys, init_req_params=init_req_params)
+
+def get_api_calls_list_from_error_log(config):
+    filepath = config["log_path"] + config["log_file_name"]
+    print(f"Preparing queue of needed API calls from previously logged errors found in {filepath}")
+    # open and parse the JSON log file
+    with open(filepath, 'r') as f:
+        log = json.load(f)
+        # Get the context, i.e. the API call context, for all "Error" records in the log
+        errors = [rec["context"] for rec in log if rec["result"] == "Error"]
+        return errors
+
+def construct_api_calls_list(config, max_limit: int, init_req_params, expected_keys):
+    print(f"Preparing queue of needed API calls (Items {config['start_at']} to {max_limit} at an interval of {config['limit_interval']})")
+    api_calls = []
+    for i in range(config["start_at"], max_limit, config["limit_interval"]):
+        api_call = {}
+
+        # set the start and end window
+        window_start = i
+        window_end = window_start + config["limit_interval"]
+
+        # get a copy of the request parameters and set the "start" parameter based on the loop location
+        req_params = init_req_params.copy()
+        req_params["start"] = window_start
+
+        # get a subset of the returned item keys to validate this API chunk against
+        windowed_keys = expected_keys[window_start:window_end]
+        
+        # add these to a dictionary, which is pushed the work queue for later processing by the async workers
+        api_call["url_base"] = config["zotero_api_base"]
+        api_call["request_params"] = req_params
+        api_call["expected_keys"] = windowed_keys
+        api_call["save_directory"] = config["save_directory"]
+        api_call["file_name"] = f'{config["file_name_base"]}{window_start}-{window_end - 1}.json'
+        api_calls.append(api_call)
+    return(api_calls)
+
 async def main(config):
     # initialize the request parameters for the first API call -- start will be updated 
     init_req_params = {
         "limit": config['limit_interval'],
         "start": config['start_at'],
+        "since": config.get("since", 0),
         "format": "json",
         "include": "bib,data,coins,citation",
         "style": "chicago-fullnote-bibliography"
@@ -154,29 +182,7 @@ async def main(config):
             max_limit = min(max_limit, config["max_records"])
 
         # Create an async work queue for the API calls based on the start, max limit, and interval parameters
-        print(f"Preparing queue of needed API calls (Items {config['start_at']} to {max_limit} at an interval of {config['limit_interval']})")
-        api_calls = []
-        for i in range(config["start_at"], max_limit, config["limit_interval"]):
-            api_call = {}
-
-            # set the start and end window
-            window_start = i
-            window_end = window_start + config["limit_interval"]
-
-            # get a copy of the request parameters and set the "start" parameter based on the loop location
-            req_params = init_req_params.copy()
-            req_params["start"] = window_start
-
-            # get a subset of the returned item keys to validate this API chunk against
-            windowed_keys = expected_keys[window_start:window_end]
-            
-            # add these to a dictionary, which is pushed the work queue for later processing by the async workers
-            api_call["url_base"] = config["zotero_api_base"]
-            api_call["request_params"] = req_params
-            api_call["expected_keys"] = windowed_keys
-            api_call["save_directory"] = config["save_directory"]
-            api_call["file_name"] = f'{config["file_name_base"]}{window_start}-{window_end - 1}.json'
-            api_calls.append(api_call)
+        api_calls = create_api_calls_list(config=config, max_limit=max_limit, expected_keys=expected_keys, init_req_params=init_req_params)
 
         # save the initial number of calls
         total_api_calls = len(api_calls)
@@ -204,6 +210,29 @@ async def main(config):
         num_error = len([r for r in results if r["result"] == "Error"])
         print('=========')
         print(f'All {total_api_calls} API Calls have been made, with {num_success} successful; {num_error} error(s). See the log file for full results')
+
+"""
+START
+"""
+# Get the command line variables via argparse
+parser = argparse.ArgumentParser()
+parser.add_argument("-c", "--config", help="Path to the config JSON (or YAML) file")
+parser.add_argument("-e", "--errors", action="store_true", help="Whether to re-run just on the errors found in the log file")
+args = parser.parse_args()
+
+# Read in and set up the config file based on terminal arguments
+config = {}
+with open(args.config, 'r') as f:
+    if(args.config.endswith('.yml') or args.config.endswith('.yaml')):
+        config = yaml.safe_load(f)
+    elif(args.config.endswith('.json')):
+        config = json.load(f)
+    else:
+        raise("Config file type not recognized, please use either a JSON (.json) or YAML (.yml or .yaml) file.")
+
+# Set whether errors 
+if(args.errors):
+    config["errors_only"] = True
 
 # Make sure the directories are created for saving files to them
 os.makedirs(config["save_directory"], exist_ok=True)
