@@ -179,7 +179,7 @@ async def main(config):
         # set the max limit to the lesser of the number of returned item keys or the constant, if set
         max_limit = len(expected_keys)
         if(config.get("max_records")):
-            max_limit = min(max_limit, config["max_records"])
+            max_limit = min(max_limit, config["max_records"] + config["start_at"])
 
         # Create an async work queue for the API calls based on the start, max limit, and interval parameters
         api_calls = create_api_calls_list(config=config, max_limit=max_limit, expected_keys=expected_keys, init_req_params=init_req_params)
