@@ -1,0 +1,12 @@
+{
+    "zotero_api_base": "https://api.zotero.org/groups/4861694/items/top",
+    "session_headers": {"Zotero-API-Version": "3"},
+    "limit_interval": 100,
+    "start_at": 0,
+    "max_records": 200,
+    "total_callers": 6,
+    "save_directory": "/home/arren/Documents/GitHub/zotcsv/2025-10-03_dump/",
+    "file_name_base": "zotero_dump2025-10-03_",
+    "log_path": "/home/arren/Documents/GitHub/zotcsv/2025-10-03_dump/log/",
+    "log_file_name": "log.json"
+}
