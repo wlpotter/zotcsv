@@ -126,7 +126,7 @@ while i < MAX_LIMIT:
     # try request
     try:
         response = session.get(ZOTERO_API_BASE, params=req_params)
-        print(response.url)
+        print(f"Making request for {response.url}")
         response.raise_for_status() # raise an error if not a 200 status code
     # handle http errors
     except requests.HTTPError:
@@ -137,7 +137,7 @@ while i < MAX_LIMIT:
         data = response.json()
         returned_keys = [rec["key"] for rec in data] # create a list of item keys to compare
         window_start = req_params["start"]
-        window_end = req_params["start"] + req_params["limit"]
+        window_end = window_start + req_params["limit"]
 
         if(returned_keys_match_expected_sequence(returned_keys=returned_keys, all_keys=all_keys, window_start=window_start, window_end=window_end)):
             # save the data to a file, named based on the constants and the start/end window
