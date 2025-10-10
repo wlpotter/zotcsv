@@ -43,7 +43,7 @@ async def get_zotero_data(call_context, session, sleep_time=1):
             "url": str(re.request_info.url),
             "status_code": re.status,
             "response_headers": re.headers,
-            "error": str(ve)
+            "error": str(re)
         }
         return logged_error
     except ValueError as ve:
